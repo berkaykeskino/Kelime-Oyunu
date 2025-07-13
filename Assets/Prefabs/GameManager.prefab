@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3412807815348401919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7908238605326619482}
+  - component: {fileID: 8053901714463605945}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7908238605326619482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3412807815348401919}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8053901714463605945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3412807815348401919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4f979dc0b7e7a48858eda42318cd9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _canvasTransform: {fileID: 0}
+  _timerPrefab: {fileID: 7928059230277053497, guid: 37d06cbafa6a8954689d6feda22197a2, type: 3}
+  _questionBGPrefab: {fileID: 2025144330437551442, guid: 04275011e4e21b34a992774cac7024fd, type: 3}
+  _questionTextPrefab: {fileID: 3620345025139881209, guid: faa51d3807bcd1845b003b71aca1c233, type: 3}
+  _keyboardPrefab: {fileID: 9142550463638070820, guid: 4c975bdb4cd4d204d82046ede8cb30d6, type: 3}
+  _answerGridPrefab: {fileID: 996107961310416129, guid: 3ede098ad9995be44a3d73a5090a7711, type: 3}
+  _pointPrefab: {fileID: 2993777931802031392, guid: 3061dbed757efc348af17c9665aae17b, type: 3}
+  _jokerPrefab: {fileID: 298169666959062068, guid: 7e7fdd7f4a00f7d4a92db2214fc26847, type: 3}

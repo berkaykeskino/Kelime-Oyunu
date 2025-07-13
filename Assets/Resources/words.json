@@ -1,0 +1,4844 @@
+{
+  "length4": [
+    {
+      "key": "Gereksiz, yersiz, boş olan",
+      "value": "abes"
+    },
+    {
+      "key": "Bir kimsenin kendisinden büyük olan kız kardeşi; aba, bacı",
+      "value": "abla"
+    },
+    {
+      "key": "Klasik Türk müziğinde kullanılan birleşik bir makam",
+      "value": "acem"
+    },
+    {
+      "key": "Merak etme sorusu; acaba",
+      "value": "acep"
+    },
+    {
+      "key": "Hemen yapılması gereken; ivedi, ivedili, evgin, müstacel",
+      "value": "acil"
+    },
+    {
+      "key": "Bir işi yapmaya gücü yetmeyen",
+      "value": "aciz"
+    },
+    {
+      "key": "Rengi koyu olmayan",
+      "value": "açık"
+    },
+    {
+      "key": "Un ile yapılan bir çeşit çörek",
+      "value": "açma"
+    },
+    {
+      "key": "Dilekğe karşılık olarak verilecek şey; nezir",
+      "value": "adak"
+    },
+    {
+      "key": "İnsan",
+      "value": "adam"
+    },
+    {
+      "key": "Töre",
+      "value": "adap"
+    },
+    {
+      "key": "İsimleri aynı olanlardan her biri",
+      "value": "adaş"
+    },
+    {
+      "key": "Bir görev, bir iş için kendini ileri süren veya başkaları tarafından ileri sürülen kimse",
+      "value": "aday"
+    },
+    {
+      "key": "Sayı; nicelik belirteci",
+      "value": "adet"
+    },
+    {
+      "key": "Hedefe yönelik en küçük ilerleme",
+      "value": "adım"
+    },
+    {
+      "key": "Hakkı gözeterek iş eden kimse",
+      "value": "adil"
+    },
+    {
+      "key": "Ufuklar",
+      "value": "afak"
+    },
+    {
+      "key": "Çeşitli doğa olaylarının sebep olduğu yıkım",
+      "value": "afet"
+    },
+    {
+      "key": "Bir şeyi duyurmak veya tanıtmak için hazırlanan, kalabalığın görebileceği yere asılmış, genellikle resimli duvar ilanı; ası",
+      "value": "afiş"
+    },
+    {
+      "key": "Meyve verebilen, gövdesi odun veya kereste olmaya elverişli bulunan ve uzun yıllar yaşayabilen bitki",
+      "value": "ağaç"
+    },
+    {
+      "key": "Tartıda çok çeken; kilolu",
+      "value": "ağır"
+    },
+    {
+      "key": "Sinir uçlarının şiddetli biçimde uyarılmasıyla ortaya çıkan, vücudun herhangi bir yerinde oluşan rahatsızlık hissi; veca",
+      "value": "ağrı"
+    },
+    {
+      "key": "Evcil büyükbaş hayvanların barındığı kapalı yer; dam, hayvan damı",
+      "value": "ahır"
+    },
+    {
+      "key": "Evlilik ve kan bağına dayanan, karı, koca, çocuklar, kardeşler arasındaki ilişkilerin oluşturduğu toplum içindeki en küçük birlik; ev, familya",
+      "value": "aile"
+    },
+    {
+      "key": "Casus",
+      "value": "ajan"
+    },
+    {
+      "key": "Küçük gümüş para",
+      "value": "akçe"
+    },
+    {
+      "key": "Düşünme, anlama ve kavrama gücü; us",
+      "value": "akıl"
+    },
+    {
+      "key": "Elektriksel yük taşıyan parçacıkların hareketi",
+      "value": "akım"
+    },
+    {
+      "key": "Kalabalık bir şeyin arkası kesilmeyen bir geliş durumunda olması",
+      "value": "akın"
+    },
+    {
+      "key": "Kişinin enerjik bir şekilde odaklandığını, tamamen dahil olduğunu ve etkinlik süresince keyif aldığını hissederek kendini tamamen etkinliğe verdiği zamanki zihinsel durum",
+      "value": "akış"
+    },
+    {
+      "key": "Akılla ilgili, akla dayanan; akılsal, ussal",
+      "value": "akli"
+    },
+    {
+      "key": "Yağ bezlerinin deri üzerinde oluşturduğu iltihaplı sivilce",
+      "value": "akne"
+    },
+    {
+      "key": "Üç veya daha çok sesin bir arada tınlaması",
+      "value": "akor"
+    },
+    {
+      "key": "Hastalık nöbeti, kriz",
+      "value": "akse"
+    },
+    {
+      "key": "Karşıt",
+      "value": "aksi"
+    },
+    {
+      "key": "Peder",
+      "value": "baba"
+    },
+    {
+      "key": "Dumanı ocaktan çekip havaya vermeye yarayan yol",
+      "value": "baca"
+    },
+    {
+      "key": "Kız kardeş",
+      "value": "bacı"
+    },
+    {
+      "key": "Şarap",
+      "value": "bade"
+    },
+    {
+      "key": "Aynı ranzada yatan askerler",
+      "value": "badi"
+    },
+    {
+      "key": "Yazgı",
+      "value": "baht"
+    },
+    {
+      "key": "Bir dağın yamaçlarının güneş ışınlarına karşı konumu",
+      "value": "bakı"
+    },
+    {
+      "key": "Ölümsüz",
+      "value": "baki"
+    },
+    {
+      "key": "Belli hafif figürlere, adım atışlara, çoğunlukla sahne düzenine ve müziğe dayalı gösteri türü",
+      "value": "bale"
+    },
+    {
+      "key": "Danslı ve özel giysili gece eğlencesi",
+      "value": "balo"
+    },
+    {
+      "key": "Çoğunlukla parklarda ve bahçelerde oturulacak sıra",
+      "value": "bank"
+    },
+    {
+      "key": "Yapılış özelliğine göre sarma, yapıştırma, malzemeyi bir yerden başka yere taşıma vb. işlerde yararlanılan, giysilerde süs, işaret vb. için kullanılan, düz, ensiz, yassı şerit",
+      "value": "bant"
+    },
+    {
+      "key": "Bir şehir veya bir bölge avukatlarının bağlı oldukları meslek kuruluşu",
+      "value": "baro"
+    },
+    {
+      "key": "Bulunulan yerde sola güney, sağa kuzey alındığında yüzün dönük olduğu yön; garp",
+      "value": "batı"
+    },
+    {
+      "key": "Herhangi bir ürünü ana firma adına satma yetkisi olan kimse, dükkân veya kuruluş",
+      "value": "bayi"
+    },
+    {
+      "key": "Mobilyanın uzunluğunca konulan dar ayak",
+      "value": "baza"
+    },
+    {
+      "key": "Bir kısım, bir miktar",
+      "value": "bazı"
+    },
+    {
+      "key": "Bebek",
+      "value": "bebe"
+    },
+    {
+      "key": "Kalıcılık",
+      "value": "beka"
+    },
+    {
+      "key": "İçinden çıkılması güç, sakıncalı durum",
+      "value": "bela"
+    },
+    {
+      "key": "Bir yere çarpma, incitme veya vurma sonucu vücudun herhangi bir yerinde oluşan çürük",
+      "value": "bere"
+    },
+    {
+      "key": "Konuşanın önündeki iki uzaklıktan kendisine daha yakın olanı belirten bir söz",
+      "value": "beri"
+    },
+    {
+      "key": "Sert",
+      "value": "berk"
+    },
+    {
+      "key": "Yaşatmak ve geliştirmek için gereken besinleri yedirip içirme işi",
+      "value": "besi"
+    },
+    {
+      "key": "Yara veya çıban sebebiyle vücudun herhangi bir yerinde oluşan şişkinlik",
+      "value": "beze"
+    },
+    {
+      "key": "Bir kimsenin egemenliğini tanıma",
+      "value": "biat"
+    },
+    {
+      "key": "Cümlede kendinden önceki ögeyi belirli duruma getiren bir söz; dahi",
+      "value": "bile"
+    },
+    {
+      "key": "Arpa ile şerbetçi otunun mayalandırılmasıyla yapılan bir içki; arpa suyu",
+      "value": "bira"
+    },
+    {
+      "key": "Site içindeki isimlendirilmiş bina",
+      "value": "blok"
+    },
+    {
+      "key": "Olduğundan başka gösterme davranışı",
+      "value": "blöf"
+    },
+    {
+      "key": "Geminin rüzgâr almayan yanı; rüzgâraltı, orsa veya rüzgârüstü karşıtı",
+      "value": "boca"
+    },
+    {
+      "key": "Damızlık erkek sığır; kele",
+      "value": "boğa"
+    },
+    {
+      "key": "Özel eldiven takmış iki kişinin birbirlerine yumruk vurarak yaptıkları spor karşılaşması",
+      "value": "boks"
+    },
+    {
+      "key": "Türkiye'nin Karadeniz Bölgesi'nde yer alan illerinden biri",
+      "value": "Bolu"
+    },
+    {
+      "key": "Genellikle arkasından yağmur getiren sert rüzgâr; boğanak",
+      "value": "bora"
+    },
+    {
+      "key": "Geri verilmek üzere alınan veya ödenmesi gerekli para veya başka bir şey; takanak, verecek",
+      "value": "borç"
+    },
+    {
+      "key": "Bir yerden başka bir yere sıvı, gaz vb. aktarmaya yarayan, içi boş, uçları açık, uzun ve dar silindir",
+      "value": "boru"
+    },
+    {
+      "key": "Renk vermek, dış etkilerden korumak için eşyanın üzerine sürülen veya içine katılan madenî, bitkisel veya sentetik madde",
+      "value": "boya"
+    },
+    {
+      "key": "Arpa, darı, mısır, buğday vb. tahılların hamurunun ekşitilmesiyle yapılan koyuca, tatlı veya mayhoş içecek",
+      "value": "boza"
+    },
+    {
+      "key": "Bölme işlemini gösteren taksim işaretinin okunuşu",
+      "value": "bölü"
+    },
+    {
+      "key": "Yaka iğnesi",
+      "value": "broş"
+    },
+    {
+      "key": "Kesintisi yapılmamış, kesintisiz (para)",
+      "value": "brüt"
+    },
+    {
+      "key": "Soğuk bir cisim üzerinde ortamda bulunan havanın veya gazın yoğunlaşmasından ötürü meydana gelmiş ince sıvı katmanı",
+      "value": "buğu"
+    },
+    {
+      "key": "Kale duvarlarından daha yüksek, yuvarlak, dört köşe veya çok köşeli kale çıkıntısı",
+      "value": "burç"
+    },
+    {
+      "key": "Bir öğrencinin öğrenimini sürdürebilmesi veya bir kimsenin bilgi ve görgüsünü artırması için belli bir süre devlet veya özel kuruluşlarca ödenen aylık para",
+      "value": "burs"
+    },
+    {
+      "key": "Öpücük",
+      "value": "buse"
+    },
+    {
+      "key": "Vücudun, omuzlarla birlikte göğüsten yukarı bölümü",
+      "value": "büst"
+    },
+    {
+      "key": "İnsan ve tabiatla ilgili olarak, birtakım gizli güçlerle insan geleceği üzerinde etkiler yapma, yönlendirmede bulunma gibi işlem ve davranışlara verilen genel ad; afsun, efsun, füsun, sihir",
+      "value": "büyü"
+    },
+    {
+      "key": "Genellikle güncelden eskiye doğru sıralanmış yazı ve yorumların yayınlandığı, ağ tabanlı yayın",
+      "value": "blog"
+    },
+    {
+      "key": "Sekiz bitten oluşan sayısal veri birimi",
+      "value": "bayt"
+    },
+    {
+      "key": "Kurt",
+      "value": "börü"
+    },
+    {
+      "key": "Bir şey ödemeden, para vermeden alınan şey",
+      "value": "caba"
+    },
+    {
+      "key": "Harry Potter evrenindeki kadın büyücü",
+      "value": "cadı"
+    },
+    {
+      "key": "Din, yasa, töre vb. bakımdan işlenmesinde, yapılmasında sakınca olmayan, yapılıp işlenmesine izin verilen",
+      "value": "caiz"
+    },
+    {
+      "key": "Gösteriş",
+      "value": "caka"
+    },
+    {
+      "key": "Müslümanların ibadet etmek için toplandıkları yer",
+      "value": "cami"
+    },
+    {
+      "key": "Cinayet işlemiş olan kimse; kıyıcı",
+      "value": "cani"
+    },
+    {
+      "key": "Geçerli olan, yürürlükteki",
+      "value": "cari"
+    },
+    {
+      "key": "Zırh",
+      "value": "cebe"
+    },
+    {
+      "key": "Bir başkasına verilen aşırı eziyet veya sıkıntı",
+      "value": "cefa"
+    },
+    {
+      "key": "Askerlik görevini yapmaya çağırma",
+      "value": "celp"
+    },
+    {
+      "key": "Savaş",
+      "value": "cenk"
+    },
+    {
+      "key": "Uygunsuz davranışlarda bulunanlara uygulanan üzüntü, sıkıntı, acı verici işlem veya yaptırım; ukubet",
+      "value": "ceza"
+    },
+    {
+      "key": "Bozularak kokmuş (yumurta)",
+      "value": "cılk"
+    },
+    {
+      "key": "Simgesi Hg olan atom",
+      "value": "cıva"
+    },
+    {
+      "key": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+      "value": "cila"
+    },
+    {
+      "key": "Ten",
+      "value": "cilt"
+    },
+    {
+      "key": "Tür",
+      "value": "cins"
+    },
+    {
+      "key": "Patates, mısır vb.nden yapılan gevrek atıştırmalık",
+      "value": "cips"
+    },
+    {
+      "key": "Ticarî faaliyet gösteren şirketlerin elde ettiği toplam kazanç",
+      "value": "ciro"
+    },
+    {
+      "key": "İslam'da kutsal gün",
+      "value": "cuma"
+    },
+    {
+      "key": "Boyu, normalden çok daha kısa olan kimse",
+      "value": "cüce"
+    },
+    {
+      "key": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma; gayret, ceht",
+      "value": "çaba"
+    },
+    {
+      "key": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+      "value": "çakı"
+    },
+    {
+      "key": "Böğürtlen, ahududu gibi küçük, dalları dibinden çatallanan ve sapları odunsu bitki",
+      "value": "çalı"
+    },
+    {
+      "key": "Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı",
+      "value": "çapa"
+    },
+    {
+      "key": "Bir sonuca varmak, ortadaki engelleri kaldırmak için tutulması gereken yol; umar",
+      "value": "çare"
+    },
+    {
+      "key": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+      "value": "çark"
+    },
+    {
+      "key": "Bir yapının, bir evin damını kuran parçaların bütünü; sakaf",
+      "value": "çatı"
+    },
+    {
+      "key": "Canlılarda baş bölümünde yer alan, kemik veya kıkırdak ile desteklenen, altlı üstlü dişleri taşıyan ve ağzın kapanıp açılmasını sağlayan kasları üzerinde barındıran iki parçaya verilen ad",
+      "value": "çene"
+    },
+    {
+      "key": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+      "value": "çete"
+    },
+    {
+      "key": "Düzgün biçilmiş uzun ve ensiz tahta",
+      "value": "çıta"
+    },
+    {
+      "key": "Birbirini tamamlayan iki tekten oluşan (nesneler)",
+      "value": "çift"
+    },
+    {
+      "key": "Sıkıntı",
+      "value": "çile"
+    },
+    {
+      "key": "Duvarları kaplayıp süslemek için kullanılan, bir yüzü sırlı ve genellikle çiçek resimleriyle bezeli, pişmiş, balçık levha",
+      "value": "çini"
+    },
+    {
+      "key": "Etçil memeliler sınıfının etçiller takımının kedigiller familyasından bir hayvan",
+      "value": "çita"
+    },
+    {
+      "key": "İki şeyi birbirine tutturmak, bir nesneyi bir yere sabitlemek için çakılan, ucu sivri, başlı, metal veya ağaçtan yapılmış ufak çubuk; mıh",
+      "value": "çivi"
+    },
+    {
+      "key": "Bir şeyin büyük bölümü",
+      "value": "çoğu"
+    },
+    {
+      "key": "Göz",
+      "value": "çeşm"
+    },
+    {
+      "key": "Evlerde çocuğa bakan kimse; daye, taya",
+      "value": "dadı"
+    },
+    {
+      "key": "Henüz",
+      "value": "daha"
+    },
+    {
+      "key": "160 IQ üzeri zihin",
+      "value": "dahi"
+    },
+    {
+      "key": "Sürekli, sonsuz olan",
+      "value": "daim"
+    },
+    {
+      "key": "Üstüne",
+      "value": "dair"
+    },
+    {
+      "key": "Karelere ayrılmış zemin üzerinde on altı taşla iki kişi arasında oynanan oyun",
+      "value": "dama"
+    },
+    {
+      "key": "İneğin, sütten kesildikten sonra bir yaşına kadar olan yavrusu",
+      "value": "dana"
+    },
+    {
+      "key": "Müziğin temposuna uyularak yapılan ve estetik değer taşıyan düzenli vücut hareketleri; raks",
+      "value": "dans"
+    },
+    {
+      "key": "Kabıyla birlikte tartılan bir nesnenin kabının ağırlığı",
+      "value": "dara"
+    },
+    {
+      "key": "Buğdaygillerden, kuraklığa dayanıklı bir bitki; akdarı (Panicum miliaceum)",
+      "value": "darı"
+    },
+    {
+      "key": "Vurma",
+      "value": "darp"
+    },
+    {
+      "key": "Veri",
+      "value": "data"
+    },
+    {
+      "key": "Annenin erkek kardeşi",
+      "value": "dayı"
+    },
+    {
+      "key": "Bir akarsuyun herhangi bir kesiminden saniyede geçen suyun hacmi; akım",
+      "value": "debi"
+    },
+    {
+      "key": "İki baba iki oğul bilmecesinin en büyüğü",
+      "value": "dede"
+    },
+    {
+      "key": "Kez",
+      "value": "defa"
+    },
+    {
+      "key": "Bozukluk",
+      "value": "defo"
+    },
+    {
+      "key": "Aklını yitirmiş olan, akli dengesi bozulmuş olan",
+      "value": "deli"
+    },
+    {
+      "key": "Bir halk edebiyatı nazım türü",
+      "value": "deme"
+    },
+    {
+      "key": "Tanıtım ürünü",
+      "value": "demo"
+    },
+    {
+      "key": "Yük hayvanlarının sağ ve soluna konulan iki yük parçasından her biri",
+      "value": "denk"
+    },
+    {
+      "key": "Korunmak, saklanmak veya gerektiğinde kullanılmak için bir şeyin konulduğu yer; ardiye, hazne",
+      "value": "depo"
+    },
+    {
+      "key": "Çaydan küçük, yazın kuruyan veya suyu azalan küçük akarsu",
+      "value": "dere"
+    },
+    {
+      "key": "İnsan ve hayvan vücudunu kaplayan tüy, kıl veya pulla kaplı tabaka",
+      "value": "deri"
+    },
+    {
+      "key": "Öğretmenin öğrenciye belirli bir sürede verdiği bilgi",
+      "value": "ders"
+    },
+    {
+      "key": "Üzüntü",
+      "value": "dert"
+    },
+    {
+      "key": "Çare",
+      "value": "deva"
+    },
+    {
+      "key": "Geviş getiren memelilerden, boynu uzun, sırtında bir veya iki hörgücü olan, yük taşımakta kullanılan hayvan",
+      "value": "deve"
+    },
+    {
+      "key": "Gücü ve sağlık durumu yerinde",
+      "value": "dinç"
+    },
+    {
+      "key": "Dinle ilgili, din üzerine",
+      "value": "dinî"
+    },
+    {
+      "key": "Canlı, ölü karşıtı",
+      "value": "diri"
+    },
+    {
+      "key": "Disk atmada kullanılan, erkekler için 2, kadınlar için 1 kilogram ağırlığında, genellikle metal bir çember ile çevrelenmiş tahta cisim",
+      "value": "disk"
+    },
+    {
+      "key": "Yumurta oluşturan veya yavru doğuran (birey)",
+      "value": "dişi"
+    },
+    {
+      "key": "Adında",
+      "value": "diye"
+    },
+    {
+      "key": "Şiirin satırlarından her biri; mısra",
+      "value": "dize"
+    },
+    {
+      "key": "Sıra",
+      "value": "dizi"
+    },
+    {
+      "key": "Kendi kuralları çerçevesinde sürekli gelişen, değişen canlı ve cansız varlıkların hepsi; tabiat, natür",
+      "value": "doğa"
+    },
+    {
+      "key": "Bulunulan yerde sola kuzey, sağa güney alındığında yüzün dönük olduğu yön; gün doğusu, maşrık, şark, batı karşıtı",
+      "value": "doğu"
+    },
+    {
+      "key": "Havada su buğusunun birden yoğunlaşıp katılaşmasından oluşan, türlü irilikte, yuvarlak veya düzensiz biçimli buz parçaları durumunda yere hızla düşen bir yağış türü; kırcı",
+      "value": "dolu"
+    },
+    {
+      "key": "Veri",
+      "value": "done"
+    },
+    {
+      "key": "Sevilen, güvenilen, gönüldaş, iyi anlaşılan kimse; yâr, düşman karşıtı",
+      "value": "dost"
+    },
+    {
+      "key": "Trajedi, komedi veya trajikomedi türünde tiyatro eseri",
+      "value": "dram"
+    },
+    {
+      "key": "Bulanıklığı olmayan; berrak",
+      "value": "duru"
+    },
+    {
+      "key": "İnsanların ve hayvanların, dış dünyanın uyaranlarını görme, işitme, koklama, dokunma ve tatma organlarıyla algılama yeteneği; his",
+      "value": "duyu"
+    },
+    {
+      "key": "İki ses veya iki müzik",
+      "value": "düet"
+    },
+    {
+      "key": "Boyut",
+      "value": "ebat"
+    },
+    {
+      "key": "Kâğıt süslemeciliğinde kitre, kola vb. yapıştırıcılarla yoğunlaştırılmış su üzerine, neft yağı ile sulandırılmış yağlı boya damlatılarak yapılan ve kâğıda geçirilen süs",
+      "value": "ebru"
+    },
+    {
+      "key": "Hayatın sonu, ölüm zamanı",
+      "value": "ecel"
+    },
+    {
+      "key": "Canlılardaki rahatsızlıkların bozuklukların ve çeşitli hastalıkların tanısı, önlenmesi veya tedavisi için yararlanılan doğal veya sentez yoluyla hazırlanmış madde",
+      "value": "ecza"
+    },
+    {
+      "key": "Birlikte kullanıldığı sözler arasında ilgi kurmaya yarayan, anlamı yalnızca bağlamla belirginleşen kelime türü; ilgeç: Ev gibi huzur köşesi olmaz. Çocuk sabaha karşı uyandı",
+      "value": "edat"
+    },
+    {
+      "key": "Toplum töresine uygun davranma",
+      "value": "edep"
+    },
+    {
+      "key": "Şart anlamını güçlendirmek için şartlı cümlelerin başına getirilen bir söz; şayet",
+      "value": "eğer"
+    },
+    {
+      "key": "Eğilmiş olan, dik veya düz olmayan",
+      "value": "eğik"
+    },
+    {
+      "key": "Eğilmiş olma durumu",
+      "value": "eğim"
+    },
+    {
+      "key": "Doğru veya düz olmayan, düzgünlüğünü yitirerek eğrilmiş, çarpık olan; münhani, doğru karşıtı",
+      "value": "eğri"
+    },
+    {
+      "key": "Bir işte yetkili olan, bir işi yapan",
+      "value": "ehil"
+    },
+    {
+      "key": "Ekmek işi",
+      "value": "ekim"
+    },
+    {
+      "key": "Tahılın tarlaya atıldığı andan harman oluncaya kadar aldığı durum; firez",
+      "value": "ekin"
+    },
+    {
+      "key": "Görev bakımından birbirini tamamlayan kimselerin topluluğu; takım, grup, kadro",
+      "value": "ekip"
+    },
+    {
+      "key": "Bir bilim ve sanat kolunda ayrı nitelik ve özellikleri bulunan yöntem veya akım; okul",
+      "value": "ekol"
+    },
+    {
+      "key": "Çıkarma işleminde - işaretinin adı; nakıs",
+      "value": "eksi"
+    },
+    {
+      "key": "Sirke veya limon tadında olan",
+      "value": "ekşi"
+    },
+    {
+      "key": "Çarpma ve toplama işlemlerinde bir sonraki sıranın rakamlarına katılacak olan sayı",
+      "value": "elde"
+    },
+    {
+      "key": "Taneli veya toz durumunda olan maddelerin kalınını incesinden ayırmak veya içindeki yabancı maddelerden ayıklamak için kullanılan, küçük delikli tel, bez vb. gerilmiş kasnak biçimindeki gereç",
+      "value": "elek"
+    },
+    {
+      "key": "Keder",
+      "value": "elem"
+    },
+    {
+      "key": "Acıklı",
+      "value": "elim"
+    },
+    {
+      "key": "Seçkin",
+      "value": "elit"
+    },
+    {
+      "key": "Gülgillerden, çiçekleri pembe veya beyaz bir ağaç",
+      "value": "elma"
+    },
+    {
+      "key": "Seçkin",
+      "value": "elit"
+    },
+    {
+      "key": "Bir işin yapılması için harcanan beden ve kafa gücü; alın teri",
+      "value": "emek"
+    },
+    {
+      "key": "Güvenli",
+      "value": "emin"
+    },
+    {
+      "key": "Belirli bir davranışta bulunmaya zorlayıcı söz; buyruk, buyuru, ferman, irade",
+      "value": "emir"
+    },
+    {
+      "key": "Amca",
+      "value": "emmi"
+    },
+    {
+      "key": "Kedi, köpek vb. çok memeli hayvanların yavrusu",
+      "value": "enik"
+    },
+    {
+      "key": "Az denmeyecek kadar; epeyi, epeyce, epeyice",
+      "value": "epey"
+    },
+    {
+      "key": "Destansı",
+      "value": "epik"
+    },
+    {
+      "key": "Ermiş",
+      "value": "eren"
+    },
+    {
+      "key": "Cinsiyet kategorisinin söz konusu olduğu dillerde erkek cinsten sayılan (kelime); müzekker",
+      "value": "eril"
+    },
+    {
+      "key": "Bir şeyin özünü oluşturan ana öge; yapı taşı, asliye",
+      "value": "esas"
+    },
+    {
+      "key": "Olmaması, yapılmaması gereken veya yapılamayan bir şey için duyulan üzüntü",
+      "value": "esef"
+    },
+    {
+      "key": "Ruhsal ve bedensel olarak sağlıklı, sıhhatli olan; salim",
+      "value": "esen"
+    },
+    {
+      "key": "Emek sonucu ortaya konan ürün; yapıt",
+      "value": "eser"
+    },
+    {
+      "key": "Etkilenme, çağrışım veya içe doğmayla akla gelen yaratıcı duygu, düşünce; ilham",
+      "value": "esin"
+    },
+    {
+      "key": "Tutsak",
+      "value": "esir"
+    },
+    {
+      "key": "Çoktan beri var olan, üzerinden çok zaman geçmiş bulunan; ezelî, ihtiyar, yeni karşıtı",
+      "value": "eski"
+    },
+    {
+      "key": "Bir işin yapıldığı an, sıra",
+      "value": "esna"
+    },
+    {
+      "key": "Atgillerden, uzun kulaklı binek ve hizmet hayvanı; merkep, karakaçan, uzun kulaklı (Equus asinus)",
+      "value": "eşek"
+    },
+    {
+      "key": "Aşama",
+      "value": "etap"
+    },
+    {
+      "key": "Kasap",
+      "value": "etçi"
+    },
+    {
+      "key": "Bedenin belden aşağısına giyilen, değişik biçimlerde, genellikle kadın giysisi; eteklik",
+      "value": "etek"
+    },
+    {
+      "key": "Oksijenli asitlerin alkollerle birleşmesinden oluşan sıvılar",
+      "value": "eter"
+    },
+    {
+      "key": "Ahlak bilimi",
+      "value": "etik"
+    },
+    {
+      "key": "Bir kimse veya nesnenin başka bir kişi veya şey üzerindeki etkileme gücü; yardım, tesir, rol",
+      "value": "etki"
+    },
+    {
+      "key": "Herhangi bir konuda yapılan inceleme, araştırma",
+      "value": "etüt"
+    },
+    {
+      "key": "Öyledir anlamında kullanılan bir doğrulama veya onaylama sözü",
+      "value": "evet"
+    },
+    {
+      "key": "Evlenmiş olan (kadın veya erkek)",
+      "value": "evli"
+    },
+    {
+      "key": "Binek hayvanlarının sırtına konulan, oturmaya yarayan nesne",
+      "value": "eyer"
+    },
+    {
+      "key": "Müslümanlıkta namaz vaktini bildirmek için müezzinin yüksek sesle yaptığı çağrı",
+      "value": "ezan"
+    },
+    {
+      "key": "Başlangıcı belli olmayan zaman; öncesizlik",
+      "value": "ezel"
+    },
+    {
+      "key": "Belli kurallara göre düzenlenmiş, kulağa hoş gelen ses dizisi; ahenk, haz, nağme, melodi, şanson",
+      "value": "ezgi"
+    },
+    {
+      "key": "Çarpma, dövülme vb. sebeplerle vücutta oluşan bere",
+      "value": "ezik"
+    },
+    {
+      "key": "domates, sivri biber, sarımsak, soğan, maydanoz, biber salçası gibi yiyeceklerin karıştırılmasıyla oluşturulan meze",
+      "value": "ezme"
+    },
+    {
+      "key": "Etkin",
+      "value": "faal"
+    },
+    {
+      "key": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye; öykünce",
+      "value": "fabl"
+    },
+    {
+      "key": "İskambil destesinin en altındaki kâğıt",
+      "value": "faça"
+    },
+    {
+      "key": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr; ürem, nema",
+      "value": "faiz"
+    },
+    {
+      "key": "Belgegeçer",
+      "value": "faks"
+    },
+    {
+      "key": "İnsan gözünün algıladığı ışık şiddeti",
+      "value": "fani"
+    },
+    {
+      "key": "Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan (Mus)",
+      "value": "fare"
+    },
+    {
+      "key": "Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım",
+      "value": "fark"
+    },
+    {
+      "key": "Güldürü",
+      "value": "fars"
+    },
+    {
+      "key": "İslam dinine göre Allah’ın emri olduğu kesin delille sabit olan, yapılması sevabı, özürsüz olarak yapılmaması günahı, inkârı ise küfrü getiren yükümlülük",
+      "value": "farz"
+    },
+    {
+      "key": "Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket",
+      "value": "faul"
+    },
+    {
+      "key": "Çok acıklı",
+      "value": "feci"
+    },
+    {
+      "key": "Bir amaç uğrunda bir değer veya varlıktan vazgeçme, uğruna verme",
+      "value": "feda"
+    },
+    {
+      "key": "İnme",
+      "value": "felç"
+    },
+    {
+      "key": "Kötü",
+      "value": "fena"
+    },
+    {
+      "key": "Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap",
+      "value": "fıçı"
+    },
+    {
+      "key": "Baskı sonucu birdenbire yerinden çıkan bir şeyin çıkardığı sesin adı",
+      "value": "fırt"
+    },
+    {
+      "key": "Tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze veya körpe çiçek",
+      "value": "fide"
+    },
+    {
+      "key": "Eylem",
+      "value": "fiil"
+    },
+    {
+      "key": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+      "value": "file"
+    },
+    {
+      "key": "Fotoğrafçılıkta, radyografide ve sinemacılıkta resim çekmek için kullanılan, selülozdan, saydam, bükülebilir şerit",
+      "value": "film"
+    },
+    {
+      "key": "Bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü",
+      "value": "filo"
+    },
+    {
+      "key": "Küçük boylu, çok tüylü, yuvarlak başlı, kısa burunlu bir ev köpeği türü",
+      "value": "fino"
+    },
+    {
+      "key": "Ağırlık yitimi",
+      "value": "fire"
+    },
+    {
+      "key": "Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı",
+      "value": "flaş"
+    },
+    {
+      "key": "Atom numarası 9, simgesi F olan atom",
+      "value": "flor"
+    },
+    {
+      "key": "Yan tutularak çalınan, orkestrada yer alan bir üflemeli çalgı; flavta",
+      "value": "flüt"
+    },
+    {
+      "key": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku; yılgı",
+      "value": "fobi"
+    },
+    {
+      "key": "Dökme demir",
+      "value": "font"
+    },
+    {
+      "key": "Yelken açtırma, mayna karşıtı",
+      "value": "fora"
+    },
+    {
+      "key": "Biçim",
+      "value": "form"
+    },
+    {
+      "key": "Parıltısını artırmak için elmas taşlarının altlarına konan ince metal yaprak",
+      "value": "foya"
+    },
+    {
+      "key": "Şapka, çanta, çiçek ve başka süs eşyası yapmak için kullanılan ince ve yumuşak keçe",
+      "value": "fötr"
+    },
+    {
+      "key": "Bir makinenin, herhangi bir taşıtın hızını kesmeye veya onu durdurmaya yarayan mekanizma",
+      "value": "fren"
+    },
+    {
+      "key": "Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek",
+      "value": "füze"
+    },
+    {
+      "key": "Çingeneler arasında kadın için kullanılan bir söz",
+      "value": "gacı"
+    },
+    {
+      "key": "Genellikle kuşlarda ağzın bir uzantısı durumunda olan, biçim ve büyüklüğü değişik, boynuz yapısında, katı ve çıkıntılı organ",
+      "value": "gaga"
+    },
+    {
+      "key": "Resmî bir törenden sonra yapılan büyük ve gösterişli şölen",
+      "value": "gala"
+    },
+    {
+      "key": "Yunan alfabesinin üçüncü harfi",
+      "value": "gama"
+    },
+    {
+      "key": "Bol, çok olan",
+      "value": "gani"
+    },
+    {
+      "key": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+      "value": "gard"
+    },
+    {
+      "key": "Batı",
+      "value": "garp"
+    },
+    {
+      "key": "Bir malı sahibinin izni ve haberi olmadan zorla alma",
+      "value": "gasp"
+    },
+    {
+      "key": "Amaç",
+      "value": "gaye"
+    },
+    {
+      "key": "İslam dinini korumak veya yaymak amacıyla Müslüman olmayanlara karşı yapılan kutsal savaş",
+      "value": "gaza"
+    },
+    {
+      "key": "Savaştan sağ olarak dönen kimse",
+      "value": "gazi"
+    },
+    {
+      "key": "Akşamdan sonra başlayan ve gün ağarıncaya kadar geçen zaman dilimi; tün, şeb",
+      "value": "gece"
+    },
+    {
+      "key": "Su üstünde yüzen, insan ve yük taşımaya yarayan büyük taşıt; sefine",
+      "value": "gemi"
+    },
+    {
+      "key": "Yaşı ilerlememiş olan, ihtiyar karşıtı",
+      "value": "genç"
+    },
+    {
+      "key": "Yine",
+      "value": "gene"
+    },
+    {
+      "key": "Arka, ileri karşıtı",
+      "value": "geri"
+    },
+    {
+      "key": "Ülkeler veya şehirler arasında yapılan uzun yolculuk; seyahat",
+      "value": "gezi"
+    },
+    {
+      "key": "Besin",
+      "value": "gıda"
+    },
+    {
+      "key": "Zenginlik, bolluk",
+      "value": "gına"
+    },
+    {
+      "key": "E benzer, -e benzeyen",
+      "value": "gibi"
+    },
+    {
+      "key": "Çimenlerle kaplı, açık, geniş bir alanda, ufak bir topu özel sopalarla ilerleterek belli bir deliğe sokma amaçlı oynanan oyun",
+      "value": "golf"
+    },
+    {
+      "key": "Keçe veya bez kaplı bir tokmakla vurularak uzun süreli ses veren, tepsi biçiminde, madenî bir çalgı",
+      "value": "gonk"
+    },
+    {
+      "key": "Toprak altına gömülerek saklanmış para veya değerli şey; define",
+      "value": "gömü"
+    },
+    {
+      "key": "Görme yetisi",
+      "value": "görü"
+    },
+    {
+      "key": "Hücre",
+      "value": "göze"
+    },
+    {
+      "key": "Kilogramın binde biri değerindeki ağırlık ölçüsü birimi",
+      "value": "gram"
+    },
+    {
+      "key": "Yunan uygarlığının MÖ 800 ile MÖ 323 yılları arasındaki antik döneminde yaşamış olan halk",
+      "value": "grek"
+    },
+    {
+      "key": "İsteklerini işverene kabul ettirmek için işçilerin, hep birden işlerini hep birden bırakması; iş bırakımı",
+      "value": "grev"
+    },
+    {
+      "key": "Bir tür zamklı, mat sulu boya",
+      "value": "guaj"
+    },
+    {
+      "key": "Brahmacı eğitimde, yüksek kasttan gençleri ve öğrencileri yetiştiren, manevi gücünün en yüksek noktada olduğuna inanılan kimse",
+      "value": "guru"
+    },
+    {
+      "key": "Bilinçli veya bilinçsiz olarak davranışı doğuran, sürekliliğini sağlayan ve ona yön veren herhangi bir güç; saik",
+      "value": "güdü"
+    },
+    {
+      "key": "Silah olarak kullanılan ağır topuz",
+      "value": "gürz"
+    },
+    {
+      "key": "Kurtçuğu yapağı, yünlü kumaş ve dokuma yiyen pul kanatlılardan bir böcek (Tine pellionella)",
+      "value": "güve"
+    },
+    {
+      "key": "Sözde",
+      "value": "güya"
+    },
+    {
+      "key": "Gıdık",
+      "value": "gıdı"
+    },
+    {
+      "key": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+      "value": "hacı"
+    },
+    {
+      "key": "Haydi",
+      "value": "hadi"
+    },
+    {
+      "key": "Hıyanet eden (kimse); çıyan, mayası bozuk",
+      "value": "hain"
+    },
+    {
+      "key": "Kahverengi ve yeşilin karışımından ortaya çıkan renk",
+      "value": "hâkî"
+    },
+    {
+      "key": "Babanın kız kardeşi; bibi",
+      "value": "hala"
+    },
+    {
+      "key": "Aynı ülkede yaşayan, aynı kültür özelliklerine sahip olan, aynı uyruktaki insan topluluğu; cumhur, folk",
+      "value": "halk"
+    },
+    {
+      "key": "Uygunsuz söz söyleme, uygunsuz iş yapma",
+      "value": "halt"
+    },
+    {
+      "key": "Tanrı'ya şükretme",
+      "value": "hamt"
+    },
+    {
+      "key": "Ev",
+      "value": "hane"
+    },
+    {
+      "key": "Nerede, ne oldu, nerede kaldı\" anlamlarında kullanılan bir söz",
+      "value": "hani"
+    },
+    {
+      "key": "Harcanan para",
+      "value": "harç"
+    },
+    {
+      "key": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri; kod",
+      "value": "harf"
+    },
+    {
+      "key": "Savaş",
+      "value": "harp"
+    },
+    {
+      "key": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+      "value": "haşa"
+    },
+    {
+      "key": "Yanlış",
+      "value": "hata"
+    },
+    {
+      "key": "Hava yuvarını oluşturan, bütün canlıların solunumuna yarayan, renksiz, kokusuz, akışkan gaz karışımı",
+      "value": "hava"
+    },
+    {
+      "key": "Taşak",
+      "value": "haya"
+    },
+    {
+      "key": "Hiçbir işe yaramadan yok olma, boşa gitme",
+      "value": "heba"
+    },
+    {
+      "key": "Bir soluk hamlesiyle çıkarılan ses veya ses birliği; seslem",
+      "value": "hece"
+    },
+    {
+      "key": "Tuvalet",
+      "value": "hela"
+    },
+    {
+      "key": "Özellikle",
+      "value": "hele"
+    },
+    {
+      "key": "Öç alma duygusu ile dolu öfke, kin; gayz",
+      "value": "hınç"
+    },
+    {
+      "key": "Birini aldatmak, yanıltmak için yapılan düzen; al, dolap, dümen, oyun, ayak oyunu, fen, fent, fesat, nakış",
+      "value": "hile"
+    },
+    {
+      "key": "Hindistan'da yaşayan halk veya bu halkın soyundan olan kimse",
+      "value": "Hint"
+    },
+    {
+      "key": "Uğraşı",
+      "value": "hobi"
+    },
+    {
+      "key": "Müslümanlıkta din görevlisi",
+      "value": "hoca"
+    },
+    {
+      "key": "Köpekleri ürkütüp kaçırmak için çıkarılan ses",
+      "value": "hoşt"
+    },
+    {
+      "key": "At, katır, sığır vb. hayvanları, özellikle öküzü durdurmak için kullanılan bir seslenme sözü",
+      "value": "höst"
+    },
+    {
+      "key": "Bir sıvıyı ağzı dar bir kaba aktarmak için kullanılan koni biçimindeki araç",
+      "value": "huni"
+    },
+    {
+      "key": "Cennette yaşadığına inanılan dişi varlık",
+      "value": "huri"
+    },
+    {
+      "key": "Yüreği ürperme ve korku ile dolu olarak Allah’a boyun eğme",
+      "value": "huşu"
+    },
+    {
+      "key": "Allah",
+      "value": "Hüda"
+    },
+    {
+      "key": "Başına konduğu kimseye mutluluk getirdiğine inanılan talih kuşu",
+      "value": "Hüma"
+    },
+    {
+      "key": "Soğukla sıcak arası, ne soğuk ne sıcak",
+      "value": "ılık"
+    },
+    {
+      "key": "Ölçülülük",
+      "value": "ılım"
+    },
+    {
+      "key": "Bir ışık kaynağından çıkarak her yöne yayılıp giden ışık demeti; şua",
+      "value": "ışın"
+    },
+    {
+      "key": "Isı ile, sıcaklıkla ilgili; termik",
+      "value": "ısıl"
+    },
+    {
+      "key": "Işıklı",
+      "value": "ışıl"
+    },
+    {
+      "key": "Alınmış bir şeyi geri verme",
+      "value": "iade"
+    },
+    {
+      "key": "Yedirip içirme, besleme, bakma",
+      "value": "iaşe"
+    },
+    {
+      "key": "Ölçü aletleri, saat ve göstergelerde sayı veya işaret göstermeye yarayan hareketli iğne",
+      "value": "ibre"
+    },
+    {
+      "key": "Gerek",
+      "value": "icap"
+    },
+    {
+      "key": "Buluş",
+      "value": "icat"
+    },
+    {
+      "key": "Yapma, yerine getirme",
+      "value": "icra"
+    },
+    {
+      "key": "Amacıyla, maksadıyla",
+      "value": "için"
+    },
+    {
+      "key": "İçinde alkol bulunan içecek; dem, tütsü",
+      "value": "içki"
+    },
+    {
+      "key": "İçi dolu (taneli sebze veya kuru yemiş)",
+      "value": "içli"
+    },
+    {
+      "key": "Kanunun verdiği hükümle öldürme, yok etme",
+      "value": "idam"
+    },
+    {
+      "key": "Düşünce",
+      "value": "idea"
+    },
+    {
+      "key": "Çok tanrılı dinlerde tapınılacak nesne",
+      "value": "idol"
+    },
+    {
+      "key": "İğdegillerden, kokulu, sarı çiçekleri olan, çalı biçiminde bir ağaç (Elaeagnus)",
+      "value": "iğde"
+    },
+    {
+      "key": "Dikiş dikmeye yarayan, ince, ucu sivri, bir ucunda iplik geçecek deliği bulunan çelik araç",
+      "value": "iğne"
+    },
+    {
+      "key": "İkisi bir arada doğan (çocuk)",
+      "value": "ikiz"
+    },
+    {
+      "key": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+      "value": "ikna"
+    },
+    {
+      "key": "Bir hastalığı iyi etmek veya önlemek için türlü yollarla kullanılan madde; daru, em, ot",
+      "value": "ilaç"
+    },
+    {
+      "key": "Bir alanda yaratıcılığı ile hayranlık uyandıran, çok beğenilen, çok tutulan kimse",
+      "value": "ilah"
+    },
+    {
+      "key": "Duyuru",
+      "value": "ilan"
+    },
+    {
+      "key": "Yönetim bakımından yurt bölümlemesinde ilden sonra gelen bölüm; kaymakamlık, kaza",
+      "value": "ilçe"
+    },
+    {
+      "key": "İki şey arasında bulunan herhangi bir bağlılık; alaka, taalluk",
+      "value": "ilgi"
+    },
+    {
+      "key": "Bilim",
+      "value": "ilim"
+    },
+    {
+      "key": "Temel düşünce, temel inanç; umde, prensip",
+      "value": "ilke"
+    },
+    {
+      "key": "Imge",
+      "value": "imaj"
+    },
+    {
+      "key": "Ham maddeyi işleyip mal üretme",
+      "value": "imal"
+    },
+    {
+      "key": "Cemaatle kılınan namazlarda en önde duran ve namaz kılınırken kendisine uyulan kimse",
+      "value": "imam"
+    },
+    {
+      "key": "Inanç",
+      "value": "iman"
+    },
+    {
+      "key": "Bayındırlık",
+      "value": "imar"
+    },
+    {
+      "key": "Zihinde tasarlanan ve gerçekleşmesi özlenen şey; hayal",
+      "value": "imge"
+    },
+    {
+      "key": "Ortadan kaldırma, yok etme",
+      "value": "imha"
+    },
+    {
+      "key": "Bir dilin söz varlığını o dilde yürürlükte olan ses, şekil, köken vb. kurallara uygun olarak yazıya geçirme",
+      "value": "imla"
+    },
+    {
+      "key": "Bir kimsenin herhangi bir belgeyi yazdığını veya onayladığını belirtmek için her zaman aynı biçimde kullandığı işaret",
+      "value": "imza"
+    },
+    {
+      "key": "Bir konuda direnme, ayak direme; direnim",
+      "value": "inat"
+    },
+    {
+      "key": "Kendi cinsinden olanlara göre dar ve kalınlığı az olan; cılız, narin, kalın karşıtı",
+      "value": "ince"
+    },
+    {
+      "key": "İstiridye gibi bazı kavkılı deniz hayvanlarının içerisinde oluşan, değerli, küçük, sert, sedef renginde süs tanesi",
+      "value": "inci"
+    },
+    {
+      "key": "İnmek işi",
+      "value": "iniş"
+    },
+    {
+      "key": "Beyinde pıhtı atması",
+      "value": "inme"
+    },
+    {
+      "key": "Yapı kurma, yapı yapma, kurma",
+      "value": "inşa"
+    },
+    {
+      "key": "İpek böceği kozaları çözülerek çıkarılan ve dokumacılıkta kullanılan çok ince, esnek ve parlak tel; harir",
+      "value": "ipek"
+    },
+    {
+      "key": "Saydam tabaka ile göz merceği arasında bulunan, ince, kasılabilen bir zardan oluşan, gözün renkli bölümü",
+      "value": "iris"
+    },
+    {
+      "key": "Ad",
+      "value": "isim"
+    },
+    {
+      "key": "Kırmızı, acı biber",
+      "value": "isot"
+    },
+    {
+      "key": "Başkasının yararına bedenini, kafa gücünü veya el becerisini kullanarak ücretle çalışan kimse",
+      "value": "işçi"
+    },
+    {
+      "key": "İtmek işi",
+      "value": "itiş"
+    },
+    {
+      "key": "Tepi",
+      "value": "itki"
+    },
+    {
+      "key": "Kuvvet ve uygulanma süresinin çarpımıyla hesaplanan fiziksel nicelik",
+      "value": "itme"
+    },
+    {
+      "key": "Hızlanma ölçüsü",
+      "value": "ivme"
+    },
+    {
+      "key": "Bir veya daha çok elektron kazanmış veya yitirmiş bir atom veya bir atom grubundan oluşmuş elektrik yüklü parçacık; yükün",
+      "value": "iyon"
+    },
+    {
+      "key": "Simgesi I olan atom",
+      "value": "iyot"
+    },
+    {
+      "key": "Açıklama",
+      "value": "izah"
+    },
+    {
+      "key": "İz güderek aradığını bulabilen kimse; keşşaf",
+      "value": "izci"
+    },
+    {
+      "key": "Bir şey yapmak için verilen veya alınan özgürlük; cevaz, destur, icazet, müsaade, ruhsat",
+      "value": "izin"
+    },
+    {
+      "key": "Taşıtlarda, lastiklerin takıldığı tekerleğin çember biçimindeki bölümü; ispit",
+      "value": "jant"
+    },
+    {
+      "key": "Herhangi bir şeyi açıklamak için genellikle el, kol ve baş ile yapılan içgüdüsel veya iradeli hareket",
+      "value": "jest"
+    },
+    {
+      "key": "Meyve suyunun şekerle kaynatılmasıyla istenilen yoğunlukta elde edilmiş şekerleme",
+      "value": "jöle"
+    },
+    {
+      "key": "Jiujitsudan gelişmiş, tutmalara, fırlatmalara, hareketsiz bırakmalara dayanan, Japon kökenli silahsız yapılan dövüş sporu",
+      "value": "judo"
+    },
+    {
+      "key": "Seçiciler kurulu",
+      "value": "jüri"
+    },
+    {
+      "key": "Özensiz, gelişigüzel yapılmış, zevksiz olan, ince karşıtı",
+      "value": "kaba"
+    },
+    {
+      "key": "Mekke'de bulunan, Müslümanlarca kıble olarak kabul edilen, hac ve umre ibadeti yapılırken tavaf edilen kutsal yer",
+      "value": "Kâbe"
+    },
+    {
+      "key": "Tanzimat'a kadar her türlü davaya, Tanzimat ile Medeni Kanun arasındaki dönemde ise yalnız evlenme, boşanma, nafaka, miras davalarına bakan mahkemelerin başkanları",
+      "value": "kadı"
+    },
+    {
+      "key": "Baş",
+      "value": "kafa"
+    },
+    {
+      "key": "İçecek ve hafif yiyeceklerin satıldığı, bazılarında kapı önlerinde oturacak yerlerin bulunduğu ayaküstü yiyecek yerleri",
+      "value": "kafe"
+    },
+    {
+      "key": "Yeter",
+      "value": "kâfi"
+    },
+    {
+      "key": "Antep fıstığıgillerden, yapraklarını dökmeyen, tropikal bir meyve ağacı; bilader ağacı, Amerikan elması (Anacardium occidentale)",
+      "value": "kaju"
+    },
+    {
+      "key": "Düşmanın gelmesi beklenilen yollar üzerinde, askerî önem taşıyan şehirlerde, geçit ve dar boğazlarda güvenliği sağlamak için yapılan kalın duvarlı, burçlu, mazgallı yapı; kermen",
+      "value": "kale"
+    },
+    {
+      "key": "Göğüs orta boşluğunda, iki akciğer arasında, vücudun her yanından gelen kirli kanı akciğerlere ve oradan gelen temiz kanı da vücuda dağıtan organ; yürek",
+      "value": "kalp"
+    },
+    {
+      "key": "Silah olarak kullanılan, ucu sivri, iki ağzı da keskin uzun bıçak",
+      "value": "kama"
+    },
+    {
+      "key": "Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri",
+      "value": "kamp"
+    },
+    {
+      "key": "Halk hizmeti gören devlet organlarının tümü",
+      "value": "kamu"
+    },
+    {
+      "key": "Kanaat getirmiş, inanmış",
+      "value": "kani"
+    },
+    {
+      "key": "Evrenin düzene girmeden önceki biçimden yoksun, uyumsuz ve karışık durumu",
+      "value": "kaos"
+    },
+    {
+      "key": "Bir yere girip çıkarken geçilen ve açılıp kapanma düzeni olan duvar veya bölme açıklığı; bap",
+      "value": "kapı"
+    },
+    {
+      "key": "Yeryüzünün denizle örtülü olmayan bölümü; toprak",
+      "value": "kara"
+    },
+    {
+      "key": "Kenarları ve açıları birbirine eşit olan dörtgen; dördül, murabba",
+      "value": "kare"
+    },
+    {
+      "key": "Bir erkeğin evlenmiş olduğu kadın",
+      "value": "karı"
+    },
+    {
+      "key": "Betondan yapılmış dört köşe döşeme taşı",
+      "value": "karo"
+    },
+    {
+      "key": "Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan illerinden biri",
+      "value": "Kars"
+    },
+    {
+      "key": "Tazeliği geçmiş; körpe karşıtı",
+      "value": "kart"
+    },
+    {
+      "key": "Para veya değerli eşya saklamaya yarayan çelik dolap",
+      "value": "kasa"
+    },
+    {
+      "key": "Cam, çini, toprak vb.nden yapılmış derince çanak",
+      "value": "kâse"
+    },
+    {
+      "key": "Başı darbelerden korumak için sertleştirilmiş sentetik maddelerden yapılmış sağlam başlık",
+      "value": "kask"
+    },
+    {
+      "key": "Başı darbelerden korumak için sertleştirilmiş sentetik maddelerden yapılmış sağlam başlık",
+      "value": "kask"
+    },
+    {
+      "key": "Damga; mühür",
+      "value": "kaşe"
+    },
+    {
+      "key": "Sert, yumuşak karşıtı",
+      "value": "katı"
+    },
+    {
+      "key": "Kesin",
+      "value": "kati"
+    },
+    {
+      "key": "Büyük ve sert taş kütlesi",
+      "value": "kaya"
+    },
+    {
+      "key": "Oğuz Türklerinin yirmi dört boyundan biri",
+      "value": "Kayı"
+    },
+    {
+      "key": "İstem dışı veya ihmal, tedbirsizlik ve dikkatsizlik dolayısıyla bir kimsenin, bir nesnenin veya bir aracın zarara uğraması",
+      "value": "kaza"
+    },
+    {
+      "key": "Bir yeri kazma işi; hafriyat",
+      "value": "kazı"
+    },
+    {
+      "key": "Yapağı veya keçi kılının dövülmesi veya ayakla tepilmesiyle elde edilen kaba kumaş",
+      "value": "keçe"
+    },
+    {
+      "key": "Geviş getirenlerden, eti, sütü, derisi ve kılı için yetiştirilen, genellikle çenesinde sakalı olan memeli hayvan (Capra hircus)",
+      "value": "keçi"
+    },
+    {
+      "key": "Kedigillerden, memeli, köpek dişleri iyi gelişmiş, çevik ve kuvvetli, evcil, küçük hayvan; pisik (Felis domesticus)",
+      "value": "kedi"
+    },
+    {
+      "key": "Terazi gözlerinden her biri",
+      "value": "kefe"
+    },
+    {
+      "key": "Koyun, köpek, at vb. hayvanların veya insanların derisinde asalak olarak yaşayan, bulaşıcı hastalıklara neden olan böceklerin genel adı; sakırga",
+      "value": "kene"
+    },
+    {
+      "key": "Şehir",
+      "value": "kent"
+    },
+    {
+      "key": "Kez",
+      "value": "kere"
+    },
+    {
+      "key": "Cepte taşınan, içine para, tütün vb. konulan, kumaştan veya örgüden küçük torba",
+      "value": "kese"
+    },
+    {
+      "key": "Kesme işlemiyle oluşmuş iz",
+      "value": "kesi"
+    },
+    {
+      "key": "Yağlı, mayalı veya mayasız hamurdan yapılan çörek",
+      "value": "kete"
+    },
+    {
+      "key": "Aynı biçimde; kezalik",
+      "value": "keza"
+    },
+    {
+      "key": "Kına ağacının kurutulmuş yapraklarından elde edilen, saç ve elleri boyamakta kullanılan toz",
+      "value": "kına"
+    },
+    {
+      "key": "Boyu, uzunluğu az olan; kesik, uzun karşıtı",
+      "value": "kısa"
+    },
+    {
+      "key": "Yeryüzündeki altı büyük kara parçasından her biri; ana kara",
+      "value": "kıta"
+    },
+    {
+      "key": "Kara ile suyun birleştiği yer",
+      "value": "kıyı"
+    },
+    {
+      "key": "Kilogram",
+      "value": "kilo"
+    },
+    {
+      "key": "Bir konutun, bir mülkün veya taşıt gibi herhangi bir şeyin belli bir bedel karşılığında, bir süre için sahibi tarafından başkasına verilmesi; icar",
+      "value": "kira"
+    },
+    {
+      "key": "Sporlu bitkilerde, özellikle mantarlarda, su yosunlarında görülen, bir veya birkaç hücreden oluşmuş organ",
+      "value": "kist"
+    },
+    {
+      "key": "Kadın veya erkeğe verilen genel ad; can, şahıs, şahsiyet, zat, nefer, nüfus",
+      "value": "kişi"
+    },
+    {
+      "key": "Kivigillerden, Yeni Zelanda'da yaşayan, kanatları küt olduğu için uçamayan, bacakları güçlü bir kuş; apteriks (Apteryx australis)",
+      "value": "kivi"
+    },
+    {
+      "key": "Boy",
+      "value": "klan"
+    },
+    {
+      "key": "Sınıf",
+      "value": "klas"
+    },
+    {
+      "key": "Genellikle televizyonda gösterilmek üzere hazırlanan, bir müzik parçasını görüntü eşliğinde veren film",
+      "value": "klip"
+    },
+    {
+      "key": "Kopya",
+      "value": "klon"
+    },
+    {
+      "key": "Atom numarası 17, simgesi Cl olan atom",
+      "value": "klor"
+    },
+    {
+      "key": "Bir kadının evlendiği kişi; bey, er, efendi, erkek, ağa, zevç",
+      "value": "koca"
+    },
+    {
+      "key": "Nesnelerden yayılan küçücük zerrelerin burun zarı üzerindeki özel sinirlerde uyandırdığı duygu; buke",
+      "value": "koku"
+    },
+    {
+      "key": "Gömlek, örtü vb. şeyleri kolalamakta kullanılan özel nişasta",
+      "value": "kola"
+    },
+    {
+      "key": "Posta paketi",
+      "value": "koli"
+    },
+    {
+      "key": "Bazı hastalıklar, yaralanmalar, zehirlenmeler sırasında görülen anlama, duyma ve hareketin büsbütün veya az çok kaybolmasıyla beliren bilinç kaybı durumu",
+      "value": "koma"
+    },
+    {
+      "key": "Otel, pansiyon vb. yerlerde çalışan hizmetli",
+      "value": "komi"
+    },
+    {
+      "key": "Durağan bir noktadan geçen ve bir eğriye dayanarak hareket eden bir doğrunun çizdiği yüzey; mahrut",
+      "value": "koni"
+    },
+    {
+      "key": "Roma imparatorunun anlaşma sağladığı yabancı ülke yöneticisi",
+      "value": "kont"
+    },
+    {
+      "key": "Konuşmada, yazıda, eserde ele alınan düşünce, olay veya durum; bap, mevzu, süje",
+      "value": "konu"
+    },
+    {
+      "key": "Başlıca belirtisi kısa, çabuk, değişken yapıda irade dışı hareketler olan bir hastalık",
+      "value": "kore"
+    },
+    {
+      "key": "Tek veya çok sesli olarak yazılmış bir müzik eserini seslendirmek için bir araya gelen topluluk",
+      "value": "koro"
+    },
+    {
+      "key": "Tenis oynanan alan; tenis sahası, tenis kortu",
+      "value": "kort"
+    },
+    {
+      "key": "Bir ülkede ithal edilecek malların çeşitlerini, oranlarını veya miktarlarını gösteren liste",
+      "value": "kota"
+    },
+    {
+      "key": "İçinde tohum veya krizalit bulunan korunak; kozalak",
+      "value": "koza"
+    },
+    {
+      "key": "Savaşta tutsak alınan, yabancı ülkelerden zorla kaçırılıp özgürlükten yoksun bırakılan veya başkasından satın alınan kimse; kul, bende, esir, memluk",
+      "value": "köle"
+    },
+    {
+      "key": "Bıyığı, sakalı çıkmayan (erkek)",
+      "value": "köse"
+    },
+    {
+      "key": "Bahçe içinde yapılmış süslü ev; kasır",
+      "value": "köşk"
+    },
+    {
+      "key": "Bir organda birdenbire ortaya çıkan fizyolojik bozukluk; bunalım, akse",
+      "value": "kriz"
+    },
+    {
+      "key": "Arap yazısının düz ve köşeli çizgilerle yazılan eski bir biçimi",
+      "value": "kûfi"
+    },
+    {
+      "key": "Perde ayaklılardan, yaban ve evcil türleri bulunan, çok uzun ve kıvrık boyunlu, geniş gagalı, geniş kanatlı bir su kuşu (Cygnus olor)",
+      "value": "kuğu"
+    },
+    {
+      "key": "Kazan, tencere, fincan, dolap, altın vb.nin tutulacak yeri",
+      "value": "kulp"
+    },
+    {
+      "key": "Erkeğin resmî nikâhlı eşiyle aynı evde yaşayan, nikâhlı olmayan diğer eşi; ortak",
+      "value": "kuma"
+    },
+    {
+      "key": "Cam veya seramikten yapılmış, kulplu, büyük bardak",
+      "value": "kupa"
+    },
+    {
+      "key": "Ağırşak",
+      "value": "kurs"
+    },
+    {
+      "key": "Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli hayvan; börü (Canis lupus)",
+      "value": "kurt"
+    },
+    {
+      "key": "Su katmanına varıncaya kadar derinliğine kazılan, genellikle silindir biçiminde, çevresine duvar örülen, suyundan yararlanılan çukur",
+      "value": "kuyu"
+    },
+    {
+      "key": "Koyun yavrusu",
+      "value": "kuzu"
+    },
+    {
+      "key": "Genellikle söğüt veya başka ağaç dallarından örülen, yük taşımaya yarayan, kaba ve dayanıklı sepet",
+      "value": "küfe"
+    },
+    {
+      "key": "Din",
+      "value": "kült"
+    },
+    {
+      "key": "Grup",
+      "value": "küme"
+    },
+    {
+      "key": "Kulak memelerine takılan süs eşyası",
+      "value": "küpe"
+    },
+    {
+      "key": "Bütün noktaları merkezden aynı uzaklıkta bulunan bir yüzeyle sınırlı cisim",
+      "value": "küre"
+    },
+    {
+      "key": "Din işlerini devlet işlerine karıştırmayan, devlet işlerini dinden ayrı tutan",
+      "value": "laik"
+    },
+    {
+      "key": "Zambakgillerden, yaprakları uzun ve sivri, çiçekleri kadeh biçiminde, türlü renkte bir süs bitkisi (Tulipa gesneriana)",
+      "value": "lale"
+    },
+    {
+      "key": "Geviş getirenlerden, Güney Amerika'nın dağlık bölgelerinde yaşayan, yük hayvanı olarak kullanılan, karadan aka kadar türlü renklerde olabilen, tüyleri uzun, boyu yüksek ve boynu uzun hayvan",
+      "value": "lama"
+    },
+    {
+      "key": "Nişastalı tanelerin, su ile kaynatılarak bulamaç kıvamına getirilmiş durumu",
+      "value": "lapa"
+    },
+    {
+      "key": "Kirliliği gösteren iz",
+      "value": "leke"
+    },
+    {
+      "key": "Damarlarda dolaşan kanla, doku ögeleri arasında aracı görevi yapan, kan plazması ve lenfositten oluşan saydam, sarı renkte bir sıvı; ak kan, lenfa",
+      "value": "lenf"
+    },
+    {
+      "key": "Parça",
+      "value": "lime"
+    },
+    {
+      "key": "Birden çok kimsenin kendilerine göre suç olan bir davranışından ötürü birini, yasa dışı ve yargılamasız olarak öldürmesi",
+      "value": "linç"
+    },
+    {
+      "key": "Atın eşkin yürüyüşü",
+      "value": "link"
+    },
+    {
+      "key": "Yüz kuruş değerinde Türkiye'nin para birimi; teklik",
+      "value": "lira"
+    },
+    {
+      "key": "Öğrencileri ortaokuldan sonra hayata ve yükseköğretime hazırlayan eğitim öğretim kurumu",
+      "value": "lise"
+    },
+    {
+      "key": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk; dalan",
+      "value": "lobi"
+    },
+    {
+      "key": "Tiyatro, sinema vb. eğlence yerlerinde veya parlamento salonlarında özel bölme",
+      "value": "loca"
+    },
+    {
+      "key": "Imlek",
+      "value": "logo"
+    },
+    {
+      "key": "Yaşayış, giyim vb. için yapılan harcamada aşırı gitme",
+      "value": "lüks"
+    },
+    {
+      "key": "Tütün çubuğu, pipo, nargile vb.nin ucuna takılan, tütün konulan yuva",
+      "value": "lüle"
+    },
+    {
+      "key": "Aylık",
+      "value": "maaş"
+    },
+    {
+      "key": "Oyun kâğıtlarında, mızrak ucuna benzer, ayaklı siyah beneklerle oluşan dizi; pik",
+      "value": "maça"
+    },
+    {
+      "key": "Sert karakterli, kaba erkek",
+      "value": "maço"
+    },
+    {
+      "key": "Akdeniz dolaylarında yaygın olan, bodur ağaç ve çalılardan oluşan bitki örtüsü",
+      "value": "maki"
+    },
+    {
+      "key": "Harç alıp sürmeye yarayan, çoğu üçgen biçiminde, yassı biçimli, tahta saplı, demirden sıvama aracı",
+      "value": "mala"
+    },
+    {
+      "key": "Mal ile ilgili; finansal",
+      "value": "mali"
+    },
+    {
+      "key": "Bira yapmak için çimlendirilip kurutularak hazırlanmış arpa",
+      "value": "malt"
+    },
+    {
+      "key": "Bebek için hazırlanan yiyeceklerin genel adı",
+      "value": "mama"
+    },
+    {
+      "key": "Anlam",
+      "value": "mana"
+    },
+    {
+      "key": "Kişinin sevinç, güven ve her türlü etkinliğinin normal olmayan bir biçimde arttığı ruh hastalığı",
+      "value": "mani"
+    },
+    {
+      "key": "Tavlada oyunculardan birinin, karşı taraf pul toplamaya başlamadan kendi pullarının tamamını toplayıp iki sayı kazanması",
+      "value": "mars"
+    },
+    {
+      "key": "Ritmi, yürüyen bir kimsenin veya topluluğun adımlarını hatırlatan müzik parçası",
+      "value": "marş"
+    },
+    {
+      "key": "Ayaklar veya bir destek üzerine oturtulmuş tabladan oluşan mobilya",
+      "value": "masa"
+    },
+    {
+      "key": "Ateş veya kızgın bir şey tutmaya, korları karıştırmaya yarayan iki kollu metal araç",
+      "value": "maşa"
+    },
+    {
+      "key": "Tespih ağacıgillerden, Hindistan ve Honduras'ta yetişen büyük bir orman ağacı; akaju (Swietenia mahagoni)",
+      "value": "maun"
+    },
+    {
+      "key": "Yeşil ile mor arasında bir renk, bulutsuz gökyüzünün rengi; mai",
+      "value": "mavi"
+    },
+    {
+      "key": "Bazı besinlerin yapımında mayalanmayı sağlamak için kullanılan madde; damızlık, ferment",
+      "value": "maya"
+    },
+    {
+      "key": "Deniz, göl, havuz vb. yerlere girerken veya güneşlenirken giyilen, tek parçadan oluşan giyisi",
+      "value": "mayo"
+    },
+    {
+      "key": "Servigillerden, yaprakları almaşık ve küçük pullar biçiminde, gövdesi düz olan, dipten dallanan bir süs bitkisi (Thuya)",
+      "value": "mazı"
+    },
+    {
+      "key": "Geçmiş",
+      "value": "mazi"
+    },
+    {
+      "key": "Arapçadan kelime kelime çevirmeksizin, asıl anlatılmak istenileni ifade ederek yapılan Kur’an çevirilerinin ortak adı",
+      "value": "meal"
+    },
+    {
+      "key": "Yemek listesi",
+      "value": "menü"
+    },
+    {
+      "key": "Otlak",
+      "value": "mera"
+    },
+    {
+      "key": "Yiğit",
+      "value": "mert"
+    },
+    {
+      "key": "Bir şeyi elle sıvazlama",
+      "value": "mesh"
+    },
+    {
+      "key": "Sarhoş",
+      "value": "mest"
+    },
+    {
+      "key": "Mal, ticaret malı",
+      "value": "meta"
+    },
+    {
+      "key": "Gemilerde çalışan küçük yaştaki tayfa yamağı; muço",
+      "value": "miço"
+    },
+    {
+      "key": "Orta",
+      "value": "midi"
+    },
+    {
+      "key": "Metal eşya üzerine vurulan renkli cam katmanı",
+      "value": "mine"
+    },
+    {
+      "key": "Asya'nın yüksek dağlarında yaşayan bir tür erkek ceylanın karın derisi altındaki bir bezden çıkarılan güzel kokulu madde",
+      "value": "misk"
+    },
+    {
+      "key": "Değişiklik gereksinimi veya süslenme özentisiyle toplum yaşamına giren geçici yenilik; nevzuhur",
+      "value": "moda"
+    },
+    {
+      "key": "Yorgunluğu gidermek için duraklama",
+      "value": "mola"
+    },
+    {
+      "key": "Kumaştan veya deriden yapılan, genellikle belden kemerli, üstünde cepleri bulunan, gömlek, hırka vb. üzerine giyilen kısa, hafif giysi; montgomer",
+      "value": "mont"
+    },
+    {
+      "key": "Hastanelerde veya mezarlıklarda ölülerin belirli süre için saklandıkları soğuk ortam",
+      "value": "morg"
+    },
+    {
+      "key": "Morsgillerden, Kuzey Atlantik'te yaşayan, derisi, dişi ve yağı için avlanan bir memeli hayvan; denizaygırı (Odobenus rosmarus)",
+      "value": "mors"
+    },
+    {
+      "key": "Bağışlanmış, affedilmiş",
+      "value": "muaf"
+    },
+    {
+      "key": "Inci çiçeği",
+      "value": "müge"
+    },
+    {
+      "key": "Ev, dükkân, arazi vb. taşınmaz mal",
+      "value": "mülk"
+    },
+    {
+      "key": "Sanat ve bilim eserlerinin veya sanat ve bilime yarayan nesnelerin saklandığı, halka gösterilmek için sergilendiği yer",
+      "value": "müze"
+    },
+    {
+      "key": "Saf, deneyimsiz",
+      "value": "naif"
+    },
+    {
+      "key": "Erişmiş, ele geçirmiş, başarmış, kazanmış, ulaşmış",
+      "value": "nail"
+    },
+    {
+      "key": "Mektup",
+      "value": "name"
+    },
+    {
+      "key": "Ballıbabagillerden, yaprakları sapsız, çiçekleri beyaz veya menekşe renginde, güzel kokulu, yaprakları baharat olarak kullanılan, çok yıllık ve otsu bir kültür bitkisi (Mentha piperita)",
+      "value": "nane"
+    },
+    {
+      "key": "Haykırma, bağırma",
+      "value": "nara"
+    },
+    {
+      "key": "Nazizm yanlısı olan kimse",
+      "value": "Nazi"
+    },
+    {
+      "key": "Kimi bilginlere göre kendisine kitap indirilmemiş peygamber",
+      "value": "nebi"
+    },
+    {
+      "key": "Büyüme, gelişme, çoğalma",
+      "value": "nema"
+    },
+    {
+      "key": "Simgesi Ne olan atom",
+      "value": "neon"
+    },
+    {
+      "key": "Ses, ahenk, nağme",
+      "value": "neva"
+    },
+    {
+      "key": "Çağırma, bağırma, seslenme",
+      "value": "nida"
+    },
+    {
+      "key": "Kadın",
+      "value": "nisa"
+    },
+    {
+      "key": "Yargılama ve değerlendirmenin kendisine göre yapıldığı ölçüt, uyulması gereken kural; düzgü",
+      "value": "norm"
+    },
+    {
+      "key": "Bir müzik sesini belirtmeye yarayan işaret",
+      "value": "nota"
+    },
+    {
+      "key": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+      "value": "nova"
+    },
+    {
+      "key": "Etkisiz",
+      "value": "nötr"
+    },
+    {
+      "key": "Çok şişman, aşırı kilolu",
+      "value": "obez"
+    },
+    {
+      "key": "Nesne",
+      "value": "obje"
+    },
+    {
+      "key": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+      "value": "obur"
+    },
+    {
+      "key": "Ateş yakmaya yarayan, pişirme, ısıtma, ısınma vb. amaçlarla kullanılan yer; ocaklık",
+      "value": "ocak"
+    },
+    {
+      "key": "Bir ışık veya ısı kaynağından yayılan ışınların bir mercekten geçtikten veya çukur bir aynadan yansıdıktan sonra toplandığı yer; mihrak, fokus",
+      "value": "odak"
+    },
+    {
+      "key": "Yakılmak için kesilmiş, parçalanmış ağaç",
+      "value": "odun"
+    },
+    {
+      "key": "Bir işletmeyi veya hizmeti yönetmek üzere düzenleme faaliyetlerinin yapıldığı alan",
+      "value": "ofis"
+    },
+    {
+      "key": "İyi huylu (kimse)",
+      "value": "oğuz"
+    },
+    {
+      "key": "Plastik, tahta, mika vb. maddelerden yapılmış taşlar kullanılarak dört kişiyle oynanan ve konkene benzeyen bir tür oyun",
+      "value": "okey"
+    },
+    {
+      "key": "1,282 kilogram veya 400 dirhemlik ağırlık ölçüsü birimi; kıyye",
+      "value": "okka"
+    },
+    {
+      "key": "Ortaya çıkan, oluşan durum, ilgi çeken veya çekebilecek nitelikte olan her türlü iş; hadise, vaka",
+      "value": "olay"
+    },
+    {
+      "key": "Erzurum iline bağlı ilçelerden biri",
+      "value": "Oltu"
+    },
+    {
+      "key": "Olabilir",
+      "value": "olur"
+    },
+    {
+      "key": "Omurgayı oluşturan kemiklerden her biri; fıkra",
+      "value": "omur"
+    },
+    {
+      "key": "Boynun iki yanında, kolların gövdeye bağlandığı bölüm; çiğin, dal",
+      "value": "omuz"
+    },
+    {
+      "key": "Uygun bulma; tasdik, icazet",
+      "value": "onay"
+    },
+    {
+      "key": "İnsanın kendine karşı duyduğu saygı; alicenaplık",
+      "value": "onur"
+    },
+    {
+      "key": "Yarım çember biçiminde yassı, ensiz ve keskin metal bir bıçakla, buna bağlı bir saptan oluşan ekin, ot vb. biçme aracı; kalıç",
+      "value": "orak"
+    },
+    {
+      "key": "Büyüklük, nicelik, derece bakımından iki şey arasında veya parça ile bütün arasında bulunan bağıntı; nispet, rasyo",
+      "value": "oran"
+    },
+    {
+      "key": "Tanrı'ya ibadet amacıyla yeme, içme vb. şeylerden belli bir süre kendini alıkoyma",
+      "value": "oruç"
+    },
+    {
+      "key": "Büyük ve süslü çadır; çerge",
+      "value": "otağ"
+    },
+    {
+      "key": "Çeşitli gereçler yardımıyla bir maddenin şeklinin değiştirilmesidir",
+      "value": "oyma"
+    },
+    {
+      "key": "Aralarında karşıtlık, aykırılık bulunan iki cümleyi “tersine olarak, aksine” anlamlarıyla birbirine bağlayan bir söz; oysaki, hâlbuki",
+      "value": "oysa"
+    },
+    {
+      "key": "Şair",
+      "value": "ozan"
+    },
+    {
+      "key": "Molekülünde üç atom bulunan oksijenden oluşan, ağır kokulu, gaz durumundaki basit element (O3)",
+      "value": "ozon"
+    },
+    {
+      "key": "Rıza",
+      "value": "onam"
+    },
+    {
+      "key": "Küme",
+      "value": "öbek"
+    },
+    {
+      "key": "Dokularda, hücreler arası boşluklarda, bazı iç organlarda genellikle de yüzde, ellerde, ayaklarda aşırı miktarda sıvı birikmesi",
+      "value": "ödem"
+    },
+    {
+      "key": "Uzlaşmaya varabilmek için hak, istek veya savlarının bir bölümünden, karşı taraf yararına vazgeçme; ödünleme, ivaz, taviz",
+      "value": "ödün"
+    },
+    {
+      "key": "Engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi; kakınç, kızgınlık, celal, hırs, hışım, hiddet, gazap",
+      "value": "öfke"
+    },
+    {
+      "key": "Ayakkabının ayak altının yuvarlakça olan kısmına rastlayan yüksek bölümü; topuk",
+      "value": "ökçe"
+    },
+    {
+      "key": "Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan",
+      "value": "ölçü"
+    },
+    {
+      "key": "Yaşam",
+      "value": "ömür"
+    },
+    {
+      "key": "İlk olarak, başlangıçta; evvel, sonra karşıtı",
+      "value": "önce"
+    },
+    {
+      "key": "Örfle ilgili",
+      "value": "örfi"
+    },
+    {
+      "key": "Elle dikilerek üretilmiş giyecek",
+      "value": "örme"
+    },
+    {
+      "key": "Toprak ürünlerinden onda bir oranında alınan vergi; ondalık, aşar",
+      "value": "öşür"
+    },
+    {
+      "key": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı; methiye",
+      "value": "övgü"
+    },
+    {
+      "key": "Onun gibi olan, ona benzer; o biçimde, o şekilde",
+      "value": "öyle"
+    },
+    {
+      "key": "Bir işin elden geldiğince iyi olması için gösterilen çaba; itina, ihtimam",
+      "value": "özen"
+    },
+    {
+      "key": "Özü olan, öz bölümü çokça olan",
+      "value": "özlü"
+    },
+    {
+      "key": "Bir maddenin herhangi bir yolla elde edilmiş olan özü; ekstre",
+      "value": "özüt"
+    },
+    {
+      "key": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
+      "value": "paça"
+    },
+    {
+      "key": "Fiyat",
+      "value": "paha"
+    },
+    {
+      "key": "Kavisli, kısa, uç bölümü geniş, kabzasına doğru daralan bir tür kılıç",
+      "value": "pala"
+    },
+    {
+      "key": "Üzerine bildiri, açıklama veya tanıtma kâğıtları tutturmak için hazırlanmış levha",
+      "value": "pano"
+    },
+    {
+      "key": "Roma Katolik kilisesinin, bir meclis tarafından seçilen, Vatikan'da oturan ve Hz. İsa'nın vekili sayılan başkanı",
+      "value": "papa"
+    },
+    {
+      "key": "Devletçe bastırılan, üzerinde değeri yazılı kâğıt veya metalden ödeme aracı; mangır, mangiz, nakit, papel, tıkır, tıngır",
+      "value": "para"
+    },
+    {
+      "key": "Parça",
+      "value": "pare"
+    },
+    {
+      "key": "Bir yerleşme merkezinde halkın gezip hava alması için düzenlenmiş ağaçlı ve çiçekli bahçe",
+      "value": "park"
+    },
+    {
+      "key": "Bir kimsenin, herhangi bir ücretin bütününden veya bir bölümünden muaf tutulduğunu gösteren belge",
+      "value": "paso"
+    },
+    {
+      "key": "Rütbe",
+      "value": "paye"
+    },
+    {
+      "key": "Kadınların sokakta yüzlerine örttükleri ince siyah örtü; nikap",
+      "value": "peçe"
+    },
+    {
+      "key": "Mızrap",
+      "value": "pena"
+    },
+    {
+      "key": "Sterlinin yüzde biri değerindeki para birimi",
+      "value": "peni"
+    },
+    {
+      "key": "Değersizleşme, zarar",
+      "value": "pert"
+    },
+    {
+      "key": "Kabartmalı pamuklu kumaş",
+      "value": "pike"
+    },
+    {
+      "key": "Ucundaki lüle içine tütün konulan ve yakılarak dumanı çekilen kısa, çubuk biçimindeki tütün içme aracı",
+      "value": "pipo"
+    },
+    {
+      "key": "Çocuk dilinde kedi",
+      "value": "pisi"
+    },
+    {
+      "key": "Sesleri kaydetmek ve kaydedilen sesleri yeniden pikap veya gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde yaprak",
+      "value": "plak"
+    },
+    {
+      "key": "Suyu alınmış her tür yiyecek maddesinin artığı",
+      "value": "posa"
+    },
+    {
+      "key": "İçinde maden eritilen kap",
+      "value": "pota"
+    },
+    {
+      "key": "İşletme, onarma, düzletme vb. işlemlerin uygulanması için bir nesneyi, iki ağırlık arasında mekanik olarak sıkıştırmaya yarayan alet; mengene, cendere",
+      "value": "pres"
+    },
+    {
+      "key": "İşveren tarafından iş yapanı isteklendirip verimini artırmak veya sonuca daha kolay ve çabuk ulaşmasını sağlamak amacıyla verilen para",
+      "value": "prim"
+    },
+    {
+      "key": "Kedigillerden, parstan biraz büyük, sırtı kahverengi, karnı beyaz, Amerika’da yaşayan bir tür yırtıcı memeli; Yeni Dünya aslanı; dağ aslanı (Feis concolor)",
+      "value": "puma"
+    },
+    {
+      "key": "Yaprak sigarası",
+      "value": "puro"
+    },
+    {
+      "key": "Üzüm, incir, erik vb. meyvelerin alkolle mayalanarak damıtılmasıyla elde edilen içki; aslansütü, imamsuyu",
+      "value": "rakı"
+    },
+    {
+      "key": "Dans",
+      "value": "raks"
+    },
+    {
+      "key": "Getirim",
+      "value": "rant"
+    },
+    {
+      "key": "Doğru, düzgün",
+      "value": "rast"
+    },
+    {
+      "key": "Uygun bulan, benimseyen, isteyen, kabul eden",
+      "value": "razı"
+    },
+    {
+      "key": "Kurtuluş",
+      "value": "reha"
+    },
+    {
+      "key": "Başkan",
+      "value": "reis"
+    },
+    {
+      "key": "Bankalar arası işlemlerde bir gecelik faiz uygulaması",
+      "value": "repo"
+    },
+    {
+      "key": "Razı olma, bir şeyi yapmayı isteme; onam",
+      "value": "rıza"
+    },
+    {
+      "key": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+      "value": "ring"
+    },
+    {
+      "key": "Ikiyüzlülük",
+      "value": "riya"
+    },
+    {
+      "key": "Türkiye'nin Karadeniz Bölgesi'nde yer alan illerinden biri",
+      "value": "Rize"
+    },
+    {
+      "key": "Dürülerek boru biçimi verilmiş deri veya kâğıt tomar",
+      "value": "rulo"
+    },
+    {
+      "key": "Hindistan, Mauritius, Nepal, Pakistan, Seyşeller ve Sri Lanka'nın para birimi",
+      "value": "rupi"
+    },
+    {
+      "key": "Öne doğru eğilme",
+      "value": "rüku"
+    },
+    {
+      "key": "Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası",
+      "value": "saat"
+    },
+    {
+      "key": "Katıksız, duru, temiz olan",
+      "value": "safi"
+    },
+    {
+      "key": "Bazı hurma ağaçlarının özünden çıkarılan ve pirinç gibi kullanılan nişastalı bir madde; Hint irmiği",
+      "value": "sagu"
+    },
+    {
+      "key": "Evlere, çeşmeden su taşımayı iş edinmiş olan kimse; sucu",
+      "value": "saka"
+    },
+    {
+      "key": "İçinde yabancı bir öge bulunmayan; mutlak",
+      "value": "salt"
+    },
+    {
+      "key": "Sanma durumu veya sonucu; zan, zehap",
+      "value": "sanı"
+    },
+    {
+      "key": "Harcama, tüketme, kullanma",
+      "value": "sarf"
+    },
+    {
+      "key": "Dik, çıkması ve geçilmesi güç (yer); yalman",
+      "value": "sarp"
+    },
+    {
+      "key": "Satmak işi; satış",
+      "value": "satı"
+    },
+    {
+      "key": "Ses",
+      "value": "seda"
+    },
+    {
+      "key": "Oturmak için evlerin önüne taş ve çamurdan yapılan set",
+      "value": "seki"
+    },
+    {
+      "key": "Gök",
+      "value": "sema"
+    },
+    {
+      "key": "Övme",
+      "value": "sena"
+    },
+    {
+      "key": "Sebze ve meyvelerin yetiştirildiği ve hava şartlarına karşı korunduğu cam ve naylonla kaplı yer; limonluk, ser, tavhane",
+      "value": "sera"
+    },
+    {
+      "key": "Derebeylik toplum düzeninde toprakla birlikte alınıp satılan köle",
+      "value": "serf"
+    },
+    {
+      "key": "Aşk",
+      "value": "sevi"
+    },
+    {
+      "key": "Dar",
+      "value": "sıkı"
+    },
+    {
+      "key": "Hafif ve ince ağrı",
+      "value": "sızı"
+    },
+    {
+      "key": "Rus, Beyaz Rus, Ukraynalı, Leh, Sırp, Hırvat, Sloven, Bulgar, Slovak ve Çek halklarına dillerindeki yakınlık dolayısıyla verilen ortak ad; İslav",
+      "value": "Slav"
+    },
+    {
+      "key": "Dinin buyruk ve yasaklarına bütünüyle uyan (kimse)",
+      "value": "sofu"
+    },
+    {
+      "key": "Küçük küçük doğranmış et, ciğer, böbrek, mantar vb. şeyler yağda hafifçe kavrulduktan sonra su, domates, biber vb. katılarak yapılan bir tür yemek",
+      "value": "sote"
+    },
+    {
+      "key": "Soru",
+      "value": "sual"
+    },
+    {
+      "key": "Herhangi bir aynalı alet ile ekran üzerinde oluşturulan görüntü",
+      "value": "spot"
+    },
+    {
+      "key": "Stadyum",
+      "value": "stat"
+    },
+    {
+      "key": "Barış",
+      "value": "sulh"
+    },
+    {
+      "key": "Yapay",
+      "value": "suni"
+    },
+    {
+      "key": "Birlikte yaşayan hayvan topluluğu",
+      "value": "sürü"
+    },
+    {
+      "key": "İstenmediği hâlde genel ağ ve sosyal medyada çok sayıda alıcıya aynı anda gönderilen gereksiz veya uygunsuz ileti",
+      "value": "spam"
+    },
+    {
+      "key": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+      "value": "şaft"
+    },
+    {
+      "key": "Yükleme",
+      "value": "şarj"
+    },
+    {
+      "key": "Doğu",
+      "value": "şark"
+    },
+    {
+      "key": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+      "value": "şase"
+    },
+    {
+      "key": "Motorlu kara taşıtlarının iskelet bölümü",
+      "value": "şasi"
+    },
+    {
+      "key": "Avrupa'da soylu kimselerin oturduğu, çevresi hendek, sur ve kulelerle çevrili konak",
+      "value": "şato"
+    },
+    {
+      "key": "Ayırma",
+      "value": "şerh"
+    },
+    {
+      "key": "Aşırı heves, aşırı istek",
+      "value": "şevk"
+    },
+    {
+      "key": "Tarikat kurucusu, bir tarikatta en yüksek dereceye ulaşmış olan kimse",
+      "value": "şeyh"
+    },
+    {
+      "key": "Henüz mayalanmamış üzüm suyu; şire",
+      "value": "şıra"
+    },
+    {
+      "key": "Bedensel veya ruhsal bir hastalığın son bulması, hastalıktan kurtulma; onma",
+      "value": "şifa"
+    },
+    {
+      "key": "Bir spor karşılaşmasının sonucunu değiştirmek için maddi veya manevi bir çıkar karşılığı varılan anlaşma",
+      "value": "şike"
+    },
+    {
+      "key": "Söyleyiş özelliği",
+      "value": "şive"
+    },
+    {
+      "key": "Paçaları dizlerin yukarısında olan kısa pantolon",
+      "value": "şort"
+    },
+    {
+      "key": "Bir kurumun, bir kuruluşun alt bölümlerindeki iş yerlerinden her biri; büro",
+      "value": "şube"
+    },
+    {
+      "key": "Alev",
+      "value": "şule"
+    },
+    {
+      "key": "Anlatana veya söyleyene göre biraz uzakta olan yer, şu yer; şurası",
+      "value": "şura"
+    },
+    {
+      "key": "Kuru tütün yaprağını andıran kızılımsı kahverengi; tütün rengi",
+      "value": "taba"
+    },
+    {
+      "key": "Bağımlı",
+      "value": "tabi"
+    },
+    {
+      "key": "Kutsal sayılan bazı insanlara, hayvanlara, nesnelere dokunulmasını, kullanılmasını yasaklayan, aksi yapıldığında zararı dokunacağı düşünülen dinî inanç",
+      "value": "tabu"
+    },
+    {
+      "key": "Hükümdarların oturduğu büyük, süslü koltuk",
+      "value": "taht"
+    },
+    {
+      "key": "Ikincil",
+      "value": "tali"
+    },
+    {
+      "key": "Hastalığın ne olduğunu araştırıp ortaya koyma; tanılama, teşhis",
+      "value": "tanı"
+    },
+    {
+      "key": "Zırhlı ve silahlı, tekerlekleri paletli, motorlu savaş taşıtı",
+      "value": "tank"
+    },
+    {
+      "key": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+      "value": "tapu"
+    },
+    {
+      "key": "Kovma, çıkarma",
+      "value": "tart"
+    },
+    {
+      "key": "Yağ kızdırma, yiyecek kızartma vb. işlere yarayan, uzun saplı yayvan kap",
+      "value": "tava"
+    },
+    {
+      "key": "Görüntü, hayalet, ruh",
+      "value": "tayf"
+    },
+    {
+      "key": "Bacakları sıkı saran özel kumaştan yapılmış bir pantolon türü",
+      "value": "tayt"
+    },
+    {
+      "key": "Dokuma tezgâhında tarağı tutan ağaç veya metal parça",
+      "value": "tefe"
+    },
+    {
+      "key": "Erkek keçi",
+      "value": "teke"
+    },
+    {
+      "key": "Asıl konu, temel motif; ana konu",
+      "value": "tema"
+    },
+    {
+      "key": "Bir şeyin en üstteki bölümü; kaban",
+      "value": "tepe"
+    },
+    {
+      "key": "Karşıt",
+      "value": "ters"
+    },
+    {
+      "key": "Bir kimsenin, bir topluluğun doğal veya sonradan kazanılmış yeteneklerini, bilgi ve becerilerini ölçmeye yarayan sınama",
+      "value": "test"
+    },
+    {
+      "key": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+      "value": "teyp"
+    },
+    {
+      "key": "Tapa",
+      "value": "tıpa"
+    },
+    {
+      "key": "İşe yaramayan (kimse)",
+      "value": "tırt"
+    },
+    {
+      "key": "Kar fırtınası",
+      "value": "tipi"
+    },
+    {
+      "key": "Dikişte kullanılan pamuk ipliği",
+      "value": "tire"
+    },
+    {
+      "key": "Kemer, kayış, ayakkabı vb.nin iki ucunu birbirine bağlamaya, bunları istenilen genişlikte tutmaya yarayan, türlü biçimlerde tutturmalık",
+      "value": "toka"
+    },
+    {
+      "key": "Üçlü",
+      "value": "trio"
+    },
+    {
+      "key": "Dünyanın çeşitli bölgelerinde yaşayan, Türkçenin değişik lehçelerini konuşan soy ve bu soydan olan kimse",
+      "value": "Türk"
+    },
+    {
+      "key": "Herhangi bir konuda verilen gizli bilgi",
+      "value": "tüyo"
+    },
+    {
+      "key": "Özellikle geceleri yapılan silahlı hırsızlık, soygun",
+      "value": "tufa"
+    },
+    {
+      "key": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı; ehven, pahalı karşıtı",
+      "value": "ucuz"
+    },
+    {
+      "key": "Soluk",
+      "value": "uçuk"
+    },
+    {
+      "key": "Boyutları normalden küçük",
+      "value": "ufak"
+    },
+    {
+      "key": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer; çevren",
+      "value": "ufuk"
+    },
+    {
+      "key": "Bazı olaylarda görülen ve insana iyilik getirdiğine inanılan belirti veya bazı nesnelerde var olduğuna inanılan iyilik kaynağı; sur, meymenet",
+      "value": "uğur"
+    },
+    {
+      "key": "Haberci",
+      "value": "ulak"
+    },
+    {
+      "key": "Bilimler, ilimler",
+      "value": "ulum"
+    },
+    {
+      "key": "Yüce",
+      "value": "ulvi"
+    },
+    {
+      "key": "Çare",
+      "value": "umar"
+    },
+    {
+      "key": "Bütün",
+      "value": "umum"
+    },
+    {
+      "key": "Aldırış etme, önem verme",
+      "value": "umur"
+    },
+    {
+      "key": "İzmir iline bağlı ilçelerden biri",
+      "value": "Urla"
+    },
+    {
+      "key": "Soy",
+      "value": "uruk"
+    },
+    {
+      "key": "Toplumu, çevresini rahatsız etmeyen; edepli, terbiyeli, müeddep, yaramaz karşıtı",
+      "value": "uslu"
+    },
+    {
+      "key": "Bir zanaatı gereği gibi öğrenmiş olan ve kendi başına yapabilen kimse; hazık",
+      "value": "usta"
+    },
+    {
+      "key": "Kökler, asıllar",
+      "value": "usul"
+    },
+    {
+      "key": "Çocuk",
+      "value": "uşak"
+    },
+    {
+      "key": "Zafer",
+      "value": "utku"
+    },
+    {
+      "key": "Uyuz böceğinin, üst derinin altına girerek yaptığı kaşındırıcı, bulaşıcı bir deri hastalığı",
+      "value": "uyuz"
+    },
+    {
+      "key": "Algılanan nesnelerin temel niteliği",
+      "value": "uzam"
+    },
+    {
+      "key": "Organ",
+      "value": "uzuv"
+    },
+    {
+      "key": "Çok uçta, kenarda veya kıyıda köşede olan",
+      "value": "ücra"
+    },
+    {
+      "key": "Üçü bir arada doğan (çocuk)",
+      "value": "üçüz"
+    },
+    {
+      "key": "Amaç edinilen, ulaşılmak istenen şey; dava, ideal",
+      "value": "ülkü"
+    },
+    {
+      "key": "Umut",
+      "value": "ümit"
+    },
+    {
+      "key": "Herkesçe bilinen, ün salmış olan; angın, adlı sanlı, anlı şanlı, şöhretli, tanınmış, meşhur, şanlı, namlı, namdar",
+      "value": "ünlü"
+    },
+    {
+      "key": "Ordu iline bağlı ilçelerden biri",
+      "value": "Ünye"
+    },
+    {
+      "key": "Doğadan elde edilen, üretilen yararlı şey; hasılat, mahsul",
+      "value": "ürün"
+    },
+    {
+      "key": "Yalnız yasaca akraba sayılan, aralarında kan bağı bulunmayan, öz olmayan",
+      "value": "üvey"
+    },
+    {
+      "key": "Gülgillerden, orta boylu bir ağaç (Pirus sorbus)",
+      "value": "üvez"
+    },
+    {
+      "key": "Asmanın taze veya kuru olarak yenilen ve salkım durumunda bulunan meyvesi",
+      "value": "üzüm"
+    },
+    {
+      "key": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre; mühlet",
+      "value": "vade"
+    },
+    {
+      "key": "İki dağ arasındaki çukurca arazi veya geçit; koyak",
+      "value": "vadi"
+    },
+    {
+      "key": "İbadet yerlerinde öğüt niteliğinde dinî konuşmalar yapan kimse; öğütçü",
+      "value": "vaiz"
+    },
+    {
+      "key": "Olay",
+      "value": "vaka"
+    },
+    {
+      "key": "Otel, restoran, alışveriş merkezi, düğün salonu vb. yerlerde gelen müşteri ve misafirlerin araçlarını otoparka park etmekle görevli kimse",
+      "value": "vale"
+    },
+    {
+      "key": "Vana",
+      "value": "valf"
+    },
+    {
+      "key": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi; ilbay",
+      "value": "vali"
+    },
+    {
+      "key": "Bir tür salon dansı",
+      "value": "vals"
+    },
+    {
+      "key": "Boru içindeki bir akışkanın akışını durdurmaya veya serbest bırakmaya yarayan alet; valf",
+      "value": "vana"
+    },
+    {
+      "key": "Bir yetimin veya akılca zayıf, hasta birinin malını yöneten kimse",
+      "value": "vasi"
+    },
+    {
+      "key": "Çiçek koymak için kullanılan, cam, toprak, porselen vb. maddelerden ve çeşitli madenlerden yapılan, türlü boyut ve biçimlerde olabilen kap; çiçeklik",
+      "value": "vazo"
+    },
+    {
+      "key": "Hasta farelerden insana geçen bir mikrobun oluşturduğu bulaşıcı, öldürücü bir hastalık; taun",
+      "value": "veba"
+    },
+    {
+      "key": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+      "value": "vefa"
+    },
+    {
+      "key": "Bir çocuğu koruyan, işlerine bakan ve her türlü davranışından sorumlu kimse; ege, iye",
+      "value": "veli"
+    },
+    {
+      "key": "Bir araştırmanın, bir tartışmanın, bir muhakemenin temeli olan ana öge; muta, data, done",
+      "value": "veri"
+    },
+    {
+      "key": "Döndürülerek bir yere sokulan burmalı çivi",
+      "value": "vida"
+    },
+    {
+      "key": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+      "value": "vinç"
+    },
+    {
+      "key": "Elektromotor gücün veya gerilimin birimi",
+      "value": "volt"
+    },
+    {
+      "key": "Oluş",
+      "value": "vuku"
+    },
+    {
+      "key": "Hey, bana bak, baksana\" anlamlarında bir seslenme sözü",
+      "value": "yahu"
+    },
+    {
+      "key": "Giysilerin boyna gelen, boynu çeviren bölümü",
+      "value": "yaka"
+    },
+    {
+      "key": "Sahil",
+      "value": "yalı"
+    },
+    {
+      "key": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+      "value": "yama"
+    },
+    {
+      "key": "Demek oluyor ki\" anlamında kullanılan bir söz",
+      "value": "yani"
+    },
+    {
+      "key": "Keskin bir şeyle veya bir vuruşla vücutta oluşan derin kesik; ceriha",
+      "value": "yara"
+    },
+    {
+      "key": "Bir bütünü oluşturan iki eşit parçadan her biri; nısıf, nim",
+      "value": "yarı"
+    },
+    {
+      "key": "Olayların gidişinde olağan dışına yer vermeyen, değişmezlik ve mecburiyet gösteren kural",
+      "value": "yasa"
+    },
+    {
+      "key": "Gidilen yerde geceyi geçirme",
+      "value": "yatı"
+    },
+    {
+      "key": "Yürüyerek giden kimse; piyade",
+      "value": "yaya"
+    },
+    {
+      "key": "Umutsuzluktan doğan karamsarlık, üzüntü",
+      "value": "yeis"
+    },
+    {
+      "key": "İnsanda bulunan, bir şey yapabilme yeteneği; kuvve, meleke",
+      "value": "yeti"
+    },
+    {
+      "key": "Ruhsal yaşama ve bedene egemen olmayı amaçlayan Hint felsefe sistemi",
+      "value": "yoga"
+    },
+    {
+      "key": "Yoga felsefesini uygulayan kimse",
+      "value": "yogi"
+    },
+    {
+      "key": "Bir bölgenin belli bir yer ve çevresini kapsayan sınırlı bölümü; havali, mahal, civar",
+      "value": "yöre"
+    },
+    {
+      "key": "Nicelik, nitelik, erdem vb. bakımlardan en üstün olan; ali, muazzez, uca, ulvi, mürtefi",
+      "value": "yüce"
+    },
+    {
+      "key": "Oğul",
+      "value": "zade"
+    },
+    {
+      "key": "Akasya, kitre, sütleğen vb. ağaçların kabuklarından sızarak donan, eriyiği yapıştırıcı olarak kullanılan, renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+      "value": "zamk"
+    },
+    {
+      "key": "İçine mektup veya başka kâğıtlar konulan kâğıttan kese",
+      "value": "zarf"
+    },
+    {
+      "key": "Zaten",
+      "value": "zati"
+    },
+    {
+      "key": "Kaybolma, yitme",
+      "value": "zayi"
+    },
+    {
+      "key": "Ön Asya'da yaşayan bir topluluk ve bu topluluktan olan kimse",
+      "value": "Zaza"
+    },
+    {
+      "key": "Birdenbire durmak\" anlamındaki zınk diye durmak deyiminde geçer",
+      "value": "zınk"
+    },
+    {
+      "key": "Savaşlarda ok, kılıç, süngü vb. silahlardan korunmak için giyilen, demir ve tel levhalardan yapılmış giysi; cebe",
+      "value": "zırh"
+    },
+    {
+      "key": "Aralarında evlilik bağı olmayan kişiler arasındaki cinsel ilişki",
+      "value": "zina"
+    },
+    {
+      "key": "Çünkü",
+      "value": "zira"
+    },
+    {
+      "key": "Zonklamak\" anlamındaki zonk zonk atmak, \"vücudun bir yeri çok zonklamak\" anlamındaki zonk zonk zonklamak deyimlerinde geçer",
+      "value": "zonk"
+    },
+    {
+      "key": "Kaçak ve yasak şeylerin saklandığı gizli yer",
+      "value": "zula"
+    },
+    {
+      "key": "Vurma, çarpma, düşme sonunda oluşan yara veya ezilme",
+      "value": "zede"
+    }
+  ],
+  "length5": [
+    {
+      "key": "Dilenci kılıklı, üstü başı perişan kimse",
+      "value": "abdal"
+    },
+    {
+      "key": "Anıt",
+      "value": "abide"
+    },
+    {
+      "key": "Gece kıyafeti",
+      "value": "abiye"
+    },
+    {
+      "key": "Bir şeyi sürekli olarak kullanmak için hizmeti verenle sözleşme yapan kimse; sürdürümcü",
+      "value": "abone"
+    },
+    {
+      "key": "Hızlı yapılan; çabuk, tez, ivedi, becit, müstacel, şitap",
+      "value": "acele"
+    },
+    {
+      "key": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
+      "value": "acemi"
+    },
+    {
+      "key": "Aç olma durumu",
+      "value": "açlık"
+    },
+    {
+      "key": "Kas",
+      "value": "adale"
+    },
+    {
+      "key": "Neredeyse",
+      "value": "âdeta"
+    },
+    {
+      "key": "Herhangi bir kişi veya mekânın bulunduğu şehir, ilçe, mahalle, cadde, sokak, kapı veya daire numarasının belirtildiği bilgi; bulunak",
+      "value": "adres"
+    },
+    {
+      "key": "Iffetli (kadın)",
+      "value": "afife"
+    },
+    {
+      "key": "Çeşitli maddelerden yapılan heykel, vazo vb. zarif, küçük süs eşyası",
+      "value": "biblo"
+    },
+    {
+      "key": "Aferin, yaşa\" anlamlarında beğeni bildiren bir söz",
+      "value": "bravo"
+    },
+    {
+      "key": "Bunamış olan; matuh",
+      "value": "bunak"
+    },
+    {
+      "key": "Yüz",
+      "value": "beniz"
+    },
+    {
+      "key": "Sonsuz",
+      "value": "bengi"
+    },
+    {
+      "key": "Alçak tavanlı ya da sıkıştırılmış",
+      "value": "basık"
+    },
+    {
+      "key": "Süs",
+      "value": "bezgi"
+    },
+    {
+      "key": "Bitkin",
+      "value": "bitap"
+    },
+    {
+      "key": "Mayalı hamurdan ince açılan yufkaların arasına veya içine peynir, kıyma, ıspanak, patlıcan, soğan, domates, pırasa, mantar vb.nin konulmasıyla farklı biçimler verilerek hazırlanan ve genellikle fırında pişirilen hamur işi",
+      "value": "börek"
+    },
+    {
+      "key": "Giyim ve süs eşyası satılan dükkân",
+      "value": "butik"
+    },
+    {
+      "key": "Ortak eğilimleri nedeniyle bir araya gelerek birlik oluşturan insan topluluğu",
+      "value": "camia"
+    },
+    {
+      "key": "Kendini bilmezlik",
+      "value": "cüret"
+    },
+    {
+      "key": "Yatay serenlerin her iki başı",
+      "value": "cunda"
+    },
+    {
+      "key": "Hukukçuların, üniversite öğretim üyelerinin, din adamlarının, mezuniyet törenlerinde öğrencilerin elbise üstüne giydikleri uzun, yanları geniş, düğmesiz giysi",
+      "value": "cübbe"
+    },
+    {
+      "key": "İslam ülkelerinde Müslüman olmayanlardan alınan bir vergi türü; kafa vergisi",
+      "value": "cizye"
+    },
+    {
+      "key": "Yeni",
+      "value": "cedit"
+    },
+    {
+      "key": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse; dil avcısı, çaşıt, ajan",
+      "value": "casus"
+    },
+    {
+      "key": "Çekici",
+      "value": "cazip"
+    },
+    {
+      "key": "Zorlayış",
+      "value": "cebir"
+    },
+    {
+      "key": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+      "value": "evrim"
+    },
+    {
+      "key": "Döl verebilecek duruma gelmiş olan; erin, yeni yetme, akil baliğ, baliğ",
+      "value": "ergen"
+    },
+    {
+      "key": "Hâli, davranışları, üstün vasıfları sebebiyle halk tarafından Allah’ın sevgilisi olduğu kabul edilen, çeşitli kerametler gösteren kimse; eren, aziz, evliya, veli, veliyullah",
+      "value": "ermiş"
+    },
+    {
+      "key": "Kadın) tutsak",
+      "value": "esire"
+    },
+    {
+      "key": "Sırlar",
+      "value": "esrar"
+    },
+    {
+      "key": "Vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer; mafsal",
+      "value": "eklem"
+    },
+    {
+      "key": "Egzoz gazı",
+      "value": "egzoz"
+    },
+    {
+      "key": "Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)",
+      "value": "ekose"
+    },
+    {
+      "key": "Vaktinden önce, alışılan zamandan önce; er, geç karşıtı",
+      "value": "erken"
+    },
+    {
+      "key": "Birlikte veya ayrı ayrı etkisini gösteren ve belli bir sonuca götüren güçlerden, şartlardan, ögelerden her biri; faktör",
+      "value": "etmen"
+    },
+    {
+      "key": "Bir kimyasal tepkimeyi gerçekleştiren ve onu hızlandıran, çoğunlukla protein yapısında olan organik madde",
+      "value": "enzim"
+    },
+    {
+      "key": "Çanakkale iline bağlı ilçelerden biri",
+      "value": "Ezine"
+    },
+    {
+      "key": "Bir bölümü olmayan; kalık, noksan, natamam",
+      "value": "eksik"
+    },
+    {
+      "key": "Sevgili",
+      "value": "habip"
+    },
+    {
+      "key": "Tahıl tanesi; evin",
+      "value": "habbe"
+    },
+    {
+      "key": "Körfez",
+      "value": "haliç"
+    },
+    {
+      "key": "Pamuk, kenevir, Hindistan cevizi gibi bitkisel liflerin veya çelik tellerin sarılmasıyla oluşan kolların bir arada bükülmesiyle elde edilen kalın ip",
+      "value": "halat"
+    },
+    {
+      "key": "Anadolu'nun çeşitli bölgelerinde genellikle davul ve zurna eşliğinde toplu olarak oynanan bir halk oyunu",
+      "value": "halay"
+    },
+    {
+      "key": "Kur'an'ı bütünüyle ezbere bilen kimse",
+      "value": "hafız"
+    },
+    {
+      "key": "Bir alacağın ödenmesi için borçlunun parasına, aylığına veya malına icra dairesi tarafından el konulması",
+      "value": "haciz"
+    },
+    {
+      "key": "Herhangi bir şey için gerekli olma; ihtiyaç, gereklilik, lüzum",
+      "value": "hacet"
+    },
+    {
+      "key": "Bir tarikat şeyhine bağlanarak ondan tasavvufun yollarını öğrenen, onun doğrultusunda ilerleyen kimse",
+      "value": "mürit"
+    },
+    {
+      "key": "Yol yapımında kullanılan taş kırıntısı; mucur",
+      "value": "mıcır"
+    },
+    {
+      "key": "İçine yün, pamuk vb. doldurulan beyaz yastık veya yorgan kılıfı",
+      "value": "mitil"
+    },
+    {
+      "key": "Iletişim ortamı",
+      "value": "medya"
+    },
+    {
+      "key": "Edirne iline bağlı ilçelerden biri",
+      "value": "Meriç"
+    },
+    {
+      "key": "Mars",
+      "value": "Merih"
+    },
+    {
+      "key": "On kişilik asker birliği",
+      "value": "manga"
+    },
+    {
+      "key": "Geviş getirenlerden, derisinin rengi siyaha yakın, uzun seyrek kıllı bir hayvan; su sığırı, camız, dombay, kömüş (Buffelus)",
+      "value": "manda"
+    },
+    {
+      "key": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki); kırık, kırma, azma, hibrit, metis",
+      "value": "melez"
+    },
+    {
+      "key": "Selçuklu Devleti'nde, hanedana mensup olup sultan olmayan kişilere verilen ünvan",
+      "value": "melik"
+    },
+    {
+      "key": "Başına bir kötülük, felaket gelmiş olan",
+      "value": "musap"
+    },
+    {
+      "key": "Birtakım özel ilaçlar kullanılarak bozulmayacak duruma getirilmiş ceset",
+      "value": "mumya"
+    },
+    {
+      "key": "Yer kabuğunun bazı bölgelerinde çeşitli iç ve dış doğal etkenlerle oluşan, ekonomik yönden değer taşıyan mineral",
+      "value": "maden"
+    },
+    {
+      "key": "Yasa dışı işlerle uğraşan, zor kullanarak birtakım gizli çıkarlar sağlayan örgüt",
+      "value": "mafya"
+    },
+    {
+      "key": "Yuvarlak biçimde olan nesne; toparlak",
+      "value": "topak"
+    },
+    {
+      "key": "Türklerin Orta Asya’da yaşadıkları en eski yurtları",
+      "value": "Turan"
+    },
+    {
+      "key": "İrade ve yargıları aşan güçlü bir coşku; ihtiras",
+      "value": "tutku"
+    },
+    {
+      "key": "Uzlaştırma",
+      "value": "telif"
+    },
+    {
+      "key": "Uyruk",
+      "value": "tebaa"
+    },
+    {
+      "key": "Çevresine ip sarılıp birden bırakılarak veya kamçı ile vurularak döndürülen koni biçiminde ucu sivri oyuncak",
+      "value": "topaç"
+    },
+    {
+      "key": "Baht",
+      "value": "talih"
+    },
+    {
+      "key": "Tarıma elverişli olan, sınırlı ve belirli toprak parçası",
+      "value": "tarla"
+    },
+    {
+      "key": "İslam dininde hac ve umre sırasında Kâbe'nin çevresini yedi kez dönme",
+      "value": "tavaf"
+    },
+    {
+      "key": "Özel ritimli ağır bir dans",
+      "value": "tango"
+    },
+    {
+      "key": "Dokunma",
+      "value": "temas"
+    },
+    {
+      "key": "En tiz erkek sesi",
+      "value": "tenor"
+    },
+    {
+      "key": "Apartmanlarda veya evlerde en üst katın üç tarafı ve üstü açık olan bölümü; ayazlık, taraça",
+      "value": "teras"
+    },
+    {
+      "key": "Tıkırdayan, birbirine vuran, çarpan şeylerin çıkardığı ses",
+      "value": "tıkır"
+    },
+    {
+      "key": "Yurt",
+      "value": "vatan"
+    },
+    {
+      "key": "Herhangi bir organa ve en çok akciğerlere yerleşen Koch basilinin yol açtığı ateşli ve bulaşıcı bir hastalık; ince ağrı, ince hastalık, tüberküloz",
+      "value": "verem"
+    },
+    {
+      "key": "Yazlıkta veya şehir dışında, bahçeli, müstakil ev",
+      "value": "villa"
+    },
+    {
+      "key": "Sesle ilgili",
+      "value": "vokal"
+    },
+    {
+      "key": "Motorlu taşıtların çekiş ve hızını ayarlamaya yarayan dişliler düzeni",
+      "value": "vites"
+    },
+    {
+      "key": "Ulaşan, varan",
+      "value": "vasıl"
+    },
+    {
+      "key": "Kedigillerden, kulakları sivri, dişleri ve tırnakları keskin, çevik, kürkünden yararlanılan yırtıcı bir hayvan (Lynx lynx)",
+      "value": "vaşak"
+    },
+    {
+      "key": "Arpa, buğday, yulaf vb. ekinlerin tanelerini taşıyan kılçıklı başı",
+      "value": "başak"
+    },
+    {
+      "key": "Aralarında töre, dil ve kültür ortaklığı bulunan, boy ve soy bakımından da birbirine bağlı insan topluluğu; budun",
+      "value": "kavim"
+    },
+    {
+      "key": "İçinde, görüntü ve seslerin kaydedildiği, gerektiğinde yeniden kullanılmasını sağlayan bir manyetik şeridin bulunduğu küçük kutu; kutucuk",
+      "value": "kaset"
+    },
+    {
+      "key": "İlk ve ortaöğretim öğrencilerine  dönem sonlarında okul yönetimleri tarafından verilen ve her dersin başarı durumu ile devam, sağlık, yetenek ve genel gidiş durumlarını gösteren belge",
+      "value": "karne"
+    },
+    {
+      "key": "Kuşlarda ve böceklerde uçmayı sağlayan organ",
+      "value": "kanat"
+    },
+    {
+      "key": "Buğdaygillerden, sulak, nemli yerlerde yetişen, boğumlu, sert gövdeli, şerit yapraklı bitkilerin genel adı; kargı (Phragmites australis)",
+      "value": "kamış"
+    },
+    {
+      "key": "Kalın biçilmiş uzun tahta; ağaç",
+      "value": "kalas"
+    },
+    {
+      "key": "Çok eski zamanda var olmuş veya eskiden beri var olan; bayrı",
+      "value": "kadim"
+    },
+    {
+      "key": "Kabakgillerden, sürüngen gövdeli, sarı çiçekli, birçok türü olan bir bitki (Cucurbita)",
+      "value": "kabak"
+    },
+    {
+      "key": "Tıraşta kullanılan, ince çelikten yapılmış, iki yanı keskin bıçak; tıraş bıçağı",
+      "value": "jilet"
+    },
+    {
+      "key": "Çok işleyen, canlı, hareketli olan",
+      "value": "işlek"
+    },
+    {
+      "key": "Bir yeri ele geçirme",
+      "value": "işgal"
+    },
+    {
+      "key": "İyiye yakın",
+      "value": "iyice"
+    },
+    {
+      "key": "Söz dinleme, boyun eğme, buyruğa uyma",
+      "value": "itaat"
+    },
+    {
+      "key": "Eşya veya başka nesnelerin düzgün bir biçimde üst üste konulmasıyla oluşan yığın",
+      "value": "istif"
+    },
+    {
+      "key": "Suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan; yaş",
+      "value": "ıslak"
+    },
+    {
+      "key": "Yeryüzünün herhangi bir yerinde hava olaylarına bağlı olarak gerçekleşen etkilerin uzun yılların ortalamasına dayanan durumu; abuhava",
+      "value": "iklim"
+    },
+    {
+      "key": "Birinin en sıkışık zamanında, beklemediği biri, yardımına yetişmek\" anlamındaki Hızır gibi (imdadına veya yardımına) yetişmek deyiminde geçen bir söz",
+      "value": "Hızır"
+    },
+    {
+      "key": "Zihinde tasarlanan, canlandırılan ve gerçekleşmesi özlenen şey; imge, hülya",
+      "value": "hayal"
+    },
+    {
+      "key": "Bir cismin uzayda doldurduğu boşluk; oylum, cirim, sıygı",
+      "value": "hacim"
+    },
+    {
+      "key": "Bir olay, bir olgu üzerine edinilen bilgi; çav, selen",
+      "value": "haber"
+    },
+    {
+      "key": "Bulunulan yerde sola doğu, sağa batı alındığında yüzün dönük olduğu yön; lodosluk, cenup, kuzey karşıtı",
+      "value": "güney"
+    },
+    {
+      "key": "Henüz açılmamış veya açılmak üzere olan çiçek; tomurcuk",
+      "value": "gonca"
+    },
+    {
+      "key": "Görünmez, belli olmaz bir durumda olan; mahfi, edimsel karşıtı",
+      "value": "gizli"
+    },
+    {
+      "key": "Pek, çok, pek çok, aşırı bir biçimde",
+      "value": "gayet"
+    },
+    {
+      "key": "Bazı insanların çenelerinde, yanaklarında doğal olarak bulunan özellikle güldüklerinde daha iyi görülen küçük çukur",
+      "value": "gamze"
+    },
+    {
+      "key": "Kaçma",
+      "value": "firar"
+    },
+    {
+      "key": "Maddenin kimyasal yapısındaki değişiklikler dışında genel veya geçici yasalara bağlı, deneysel olarak araştırılabilen, ölçülebilen, matematiksel olarak tanımlanabilen madde ve enerji olgularıyla uğraşan bilim dalı",
+      "value": "fizik"
+    },
+    {
+      "key": "Lambada, kandilde ve mumda yağın, çakmakta benzinin yanmasını sağlayan, türlü biçimlerde bükülmüş veya dokunmuş pamuktan yapılan genellikle yağ çekici madde",
+      "value": "fitil"
+    },
+    {
+      "key": "Bir işin sonu",
+      "value": "final"
+    },
+    {
+      "key": "Düşünce",
+      "value": "fikir"
+    },
+    {
+      "key": "Tan",
+      "value": "fecir"
+    },
+    {
+      "key": "Gereğinden, alışılmıştan çok, aşırı olan; ziyade",
+      "value": "fazla"
+    },
+    {
+      "key": "Geleceği tahmin ettiğini söyleyen kişi",
+      "value": "falcı"
+    },
+    {
+      "key": "Çocuk",
+      "value": "evlat"
+    },
+    {
+      "key": "Kavimle ilgili; budunsal, kavmî",
+      "value": "etnik"
+    },
+    {
+      "key": "Küçük sermaye ve zanaat sahibi; artizan",
+      "value": "esnaf"
+    },
+    {
+      "key": "Uzun süre saklanabilen yiyeceklerin genel adı",
+      "value": "erzak"
+    },
+    {
+      "key": "Süt çocuklarını oyalamak için ağızlarına verilen kauçuk meme",
+      "value": "emzik"
+    },
+    {
+      "key": "Yerin derinliklerinde bulunan, billurlaşmış arı karbon",
+      "value": "elmas"
+    },
+    {
+      "key": "Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça",
+      "value": "dümen"
+    },
+    {
+      "key": "Dönmekte olan, dönen, dönecek biçimde düzenlenen",
+      "value": "döner"
+    },
+    {
+      "key": "Belli özellikleri olan zaman parçası; periyot",
+      "value": "dönem"
+    },
+    {
+      "key": "Genellikle tahtadan yapılmış, bölme veya çekmelerine eşya konulan kapaklı mobilya",
+      "value": "dolap"
+    },
+    {
+      "key": "İçten yanmalı bir motor çeşidi",
+      "value": "dizel"
+    },
+    {
+      "key": "Yer kabuğunun çukur bölümlerini kaplayan, birbiriyle bağlantılı, tuzlu su kütlesi; bahir, derya",
+      "value": "deniz"
+    },
+    {
+      "key": "Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi; bağ, bağlam",
+      "value": "demet"
+    },
+    {
+      "key": "Çevresine göre aşağı çökmüş olan yer",
+      "value": "çukur"
+    },
+    {
+      "key": "Az yağlı, bazen şekerli ve yumurtalı, gevrekçe bir hamur işi; gato",
+      "value": "çörek"
+    },
+    {
+      "key": "Amaçlanan duruma getirilmesi, elde edilmesi, çözümlenmesi, işlenmesi güç veya engeli çok olan; ağır, zorlu",
+      "value": "çetin"
+    },
+    {
+      "key": "Su verilerek çok sert ve esnek bir duruma getirilebilen, birleşiminde az miktarda karbon bulunan demir ve karbon alaşımı; polat",
+      "value": "çelik"
+    },
+    {
+      "key": "Çakıl taşı",
+      "value": "çakıl"
+    },
+    {
+      "key": "Keçe, deri, kıl dokuma, sık dokunmuş kalın bez veya plastik maddelerden yapılarak direklerle tutturulan, taşınabilir barınak",
+      "value": "çadır"
+    },
+    {
+      "key": "Badem, kayısı, erik vb. tek çekirdekli yemişlerin körpeyken yenilebilen ham şekli",
+      "value": "çağla"
+    },
+    {
+      "key": "Alınla üst dudak arasında bulunan, çıkıntılı, iki delikli koklama ve solunum organı; koku alma organı",
+      "value": "burun"
+    },
+    {
+      "key": "Bulunduğu yere kök vb. organlarıyla tutunan, çoğunlukla fotosentez sonucu yaşam için gerekli bileşenleri oluşturan, birçoğu spor veya tohum aracılığıyla döl vererek çoğalan bir veya çok yıllık, otsu, odunsu canlıların genel adı; nebat",
+      "value": "bitki"
+    },
+    {
+      "key": "Biçmek işi",
+      "value": "biçim"
+    },
+    {
+      "key": "Kesme işlerinde kullanılan, bir sap ve çelik bölümden oluşan kesici araç",
+      "value": "bıçak"
+    },
+    {
+      "key": "Ak, kara ve siyah karşıtı",
+      "value": "beyaz"
+    },
+    {
+      "key": "Bir gerçeğe tanıklık eden yazı, fotoğraf, resim, film vb.; vesika, doküman",
+      "value": "belge"
+    },
+    {
+      "key": "Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe",
+      "value": "bebek"
+    },
+    {
+      "key": "Ara sıra",
+      "value": "bazen"
+    },
+    {
+      "key": "Taze olmayan",
+      "value": "bayat"
+    },
+    {
+      "key": "Vücudun bel ile kalça arasındaki bölümü",
+      "value": "basen"
+    },
+    {
+      "key": "Omurgalılardan, suda yaşayan, solungaçla nefes alan ve yumurtadan üreyen hayvanların genel adı",
+      "value": "balık"
+    },
+    {
+      "key": "Bakanlıklardan birini yönetmek için işbaşına getirilen yetkili; vekil, icra vekili, nazır",
+      "value": "bakan"
+    },
+    {
+      "key": "Ilkbahar",
+      "value": "bahar"
+    },
+    {
+      "key": "Azgın",
+      "value": "azılı"
+    },
+    {
+      "key": "Aksaklık",
+      "value": "arıza"
+    },
+    {
+      "key": "Belirli bir günün, olayın bir önceki günü veya ona yakın günler; ön gün",
+      "value": "arife"
+    },
+    {
+      "key": "Kısımlar",
+      "value": "aksam"
+    },
+    {
+      "key": "Bir memleket, şehir veya semtte oturanların, yaşayanların hepsi; el, halk",
+      "value": "ahali"
+    }
+  ],
+  "length6": [
+    {
+      "key": "Toprak bütünlüğüne bağlı olarak siyasal bakımdan örgütlenmiş millet veya milletler topluluğunun oluşturduğu tüzel varlık; ülke",
+      "value": "devlet"
+    },
+    {
+      "key": "Süzgeç",
+      "value": "filtre"
+    },
+    {
+      "key": "Salon futbolu",
+      "value": "futsal"
+    },
+    {
+      "key": "Yersiz, gereksiz olan",
+      "value": "fuzuli"
+    },
+    {
+      "key": "İki peygamber arasında peygambersiz geçen süre",
+      "value": "fetret"
+    },
+    {
+      "key": "Derebeylikle ilgili",
+      "value": "feodal"
+    },
+    {
+      "key": "Aralarında fark bulunan; değişik, ayrımlı, daha bir, alternatif",
+      "value": "farklı"
+    },
+    {
+      "key": "Hızlı hareket eden",
+      "value": "fıldır"
+    },
+    {
+      "key": "Sopa vurmak için ayak tabanlarını uygun bir biçimde sıkıştırıp tutmak üzere iki ucuna bağlı bir ipi olan cezalandırma aracı",
+      "value": "falaka"
+    },
+    {
+      "key": "Etken",
+      "value": "faktör"
+    },
+    {
+      "key": "Para ve para ile ilgili araçları, değerleri konu edinen iş alanı",
+      "value": "finans"
+    },
+    {
+      "key": "Sonuna kadar, bir solukta, bir dikişte",
+      "value": "fondip"
+    },
+    {
+      "key": "Serbest vuruş",
+      "value": "frikik"
+    },
+    {
+      "key": "Çığlık",
+      "value": "feryat"
+    },
+    {
+      "key": "Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası",
+      "value": "fatura"
+    },
+    {
+      "key": "Genellikle ince pamuk ipliğinden dokunmuş, ten üzerine giyilen iç çamaşırı; atlet",
+      "value": "fanila"
+    },
+    {
+      "key": "Organik maddelerden kuru damıtma yoluyla elde edilen, sıvı yağ kıvamında, kara renkte, ağır, is kokulu, suda erimeyen bir madde",
+      "value": "katran"
+    },
+    {
+      "key": "Atom numarası 6 olan atom",
+      "value": "karbon"
+    },
+    {
+      "key": "Kabakgillerden, sürüngen gövdeli parçalı sert yapraklı, sarı çiçekler açan bir bitki (Citrullus vulgaris)",
+      "value": "karpuz"
+    },
+    {
+      "key": "Kayağan",
+      "value": "kaypak"
+    },
+    {
+      "key": "Kenevir",
+      "value": "kendir"
+    },
+    {
+      "key": "Çekecek",
+      "value": "kerata"
+    },
+    {
+      "key": "Bir veya birkaç heceden oluşan, anlamlı ses birliği; söz, sözcük, lügat",
+      "value": "kelime"
+    },
+    {
+      "key": "Tek parça deri veya uzun esnek bir değneğin ucuna sırım bağlanarak yapılmış vurma aracı",
+      "value": "kırbaç"
+    },
+    {
+      "key": "Yazılı kâğıtları düzenli ve sıralı bir biçimde korumak için kullanılan mukavva veya plastikten telli kap; sıralaç",
+      "value": "klasör"
+    },
+    {
+      "key": "Parmaklarla hareket ettirilen piyano, org vb. çalgılarda veya yazı ve hesap makinelerinde değişmez bir eksen çevresinde inip kalkabilen, istenilen işe göre düzenlenmiş bazı mekanizmaları çalıştıran kaldıraç kollarının, tuş sıralarının bütünü",
+      "value": "klavye"
+    },
+    {
+      "key": "Süreğen",
+      "value": "kronik"
+    },
+    {
+      "key": "Kuşların yemek borusu üzerinde bulunan, yiyeceklerin toplandığı torba biçiminde şişkin organ",
+      "value": "kursak"
+    },
+    {
+      "key": "Hayvanların çoğunda, gövdenin sonunda bulunan, omurganın uzantısı olan uzun ve esnek organ",
+      "value": "kuyruk"
+    },
+    {
+      "key": "Saygısız, kaba, terbiyesiz (kimse)",
+      "value": "küstah"
+    },
+    {
+      "key": "Vücutta boşluklar içinde bulunan yabancı cisimleri, hasta veya zararlı sayılan dokuları kazıyarak alma; kazıma, küretaj",
+      "value": "kürtaj"
+    },
+    {
+      "key": "Kadınların saçını kesen ve saç tuvaleti yapan berber; kadın berberi",
+      "value": "kuaför"
+    },
+    {
+      "key": "Çağdaş",
+      "value": "modern"
+    },
+    {
+      "key": "İnce, küçük, çıtı pıtı",
+      "value": "minyon"
+    },
+    {
+      "key": "Bir şey haber vermek, sormak, istemek veya duyguları bildirmek için birine çoğunlukla posta yoluyla gönderilen, zarfa konulmuş yazılı kâğıt; name, varakpare",
+      "value": "mektup"
+    },
+    {
+      "key": "Ara",
+      "value": "mesafe"
+    },
+    {
+      "key": "Bırakılmış, terk edilmiş",
+      "value": "metruk"
+    },
+    {
+      "key": "Yükletilmiş",
+      "value": "mahmul"
+    },
+    {
+      "key": "Sarhoşluğun sebep olduğu sersemlik içinde olan",
+      "value": "mahmur"
+    },
+    {
+      "key": "Toprakta çıkan şapkalı bitki; fungi",
+      "value": "mantar"
+    },
+    {
+      "key": "Bir yerle veya bir kimseyle bağlantısı olan, ilişkili, -den olan, -e bağlı (kimse)",
+      "value": "mensup"
+    },
+    {
+      "key": "Idrar torbası",
+      "value": "mesane"
+    },
+    {
+      "key": "Atmosfer içinde oluşan sıcaklık değişmeleri, rüzgâr, yıldırım, yağmur, dolu vb. olaylara verilen genel ad",
+      "value": "meteor"
+    },
+    {
+      "key": "Cam parlaklığında, yeşil renkte, saydam bir süs taşı, doğal alüminyum ve berilyum silikatı",
+      "value": "zümrüt"
+    },
+    {
+      "key": "Tutuklu veya hükümlülerin içine konulduğu kapalı yer",
+      "value": "zindan"
+    },
+    {
+      "key": "Asla",
+      "value": "zinhar"
+    },
+    {
+      "key": "Zıpır",
+      "value": "zirzop"
+    },
+    {
+      "key": "Hor görülme",
+      "value": "zillet"
+    },
+    {
+      "key": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+      "value": "zabıta"
+    },
+    {
+      "key": "Güçlük",
+      "value": "zahmet"
+    },
+    {
+      "key": "Görünen, görünürdeki",
+      "value": "zahirî"
+    },
+    {
+      "key": "Cehennemlikleri ateşe atmakla görevli melek, cehennem bekçisi",
+      "value": "zebani"
+    },
+    {
+      "key": "Hava gemisi",
+      "value": "zeplin"
+    },
+    {
+      "key": "İslam dinine göre namaz kılmak, Kur’an okumak, Kâbe’yi tavaf etmek gibi ibadetleri yerine getirebilmek için niyet ederek el, ağız, burun, yüz, kol ve ayakları yıkamak; baş, kulaklar ve boynun iki yanını meshetmek yoluyla arınma",
+      "value": "abdest"
+    },
+    {
+      "key": "Sağduyuya, göreneğe, olağana aykırı, yadırganan; yabansı, garip, tuhaf",
+      "value": "acayip"
+    },
+    {
+      "key": "Hukuk ve adalet işlerini gören devlet kurumu",
+      "value": "adliye"
+    },
+    {
+      "key": "Gerekli notların unutulmaması için yazıldığı takvimli defter; akıl defteri, andaç",
+      "value": "ajanda"
+    },
+    {
+      "key": "Baklagillerden, sıcak iklimlerde birçok türü yetişen ve tanen, zamk, boya vb. maddelerin yapımında kullanılan bir ağaç (Acacia)",
+      "value": "akasya"
+    },
+    {
+      "key": "Akmak işi",
+      "value": "akıntı"
+    },
+    {
+      "key": "Çekici",
+      "value": "alımlı"
+    },
+    {
+      "key": "Soyut bir şeyin, bir kavramın sembolü olan varlık veya eşya; belirtke",
+      "value": "amblem"
+    },
+    {
+      "key": "Ananasgillerden, sıcak ülkelerde yetişen bir ağaç (Ananas sativus)",
+      "value": "ananas"
+    },
+    {
+      "key": "İki şey arasındaki mesafe, iki şeyin arasındaki boşluk; fasıla",
+      "value": "aralık"
+    },
+    {
+      "key": "Aramak işi",
+      "value": "arayış"
+    },
+    {
+      "key": "Askerlikle ilgili, askere özgü",
+      "value": "askerî"
+    },
+    {
+      "key": "Tembellik",
+      "value": "atalet"
+    },
+    {
+      "key": "Hak ve yasa işlerinde isteyenlere yol göstermeyi, mahkemelerde, devlet dairelerinde başkalarının hakkını aramayı, korumayı meslek edinen ve bunun için yasanın gerektirdiği şartları taşıyan kimse; savunucu, müdafi",
+      "value": "avukat"
+    },
+    {
+      "key": "Ululuk",
+      "value": "azamet"
+    },
+    {
+      "key": "Yiyecek, içecek vb. maddeleri perakende olarak satan kimse",
+      "value": "bakkal"
+    },
+    {
+      "key": "İçinde çeşitli organik maddeler bulunan, genellikle killi, koyu, yapışkan çamur; mil",
+      "value": "balçık"
+    },
+    {
+      "key": "Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü",
+      "value": "balkon"
+    },
+    {
+      "key": "Balinalardan, yaklaşık uzunluğu 20 metre, ağırlığı 200 ton olan memeli hayvan (Balaena mistycetus)",
+      "value": "balina"
+    },
+    {
+      "key": "Sargı ile sarma",
+      "value": "bandaj"
+    },
+    {
+      "key": "Tahta, çinko vb. hafif şeylerden yapılmış, temelsiz, eğreti yapı",
+      "value": "baraka"
+    },
+    {
+      "key": "Su vb. şeyleri içmek için kullanılan, genellikle camdan yapılan kap",
+      "value": "bardak"
+    },
+    {
+      "key": "Genellikle başı korumak için giyilen şapka; dolambaç, serpuş",
+      "value": "başlık"
+    },
+    {
+      "key": "Suç işlendiği veya suçluların bulunduğu sanılan bir yere ansızın girme",
+      "value": "baskın"
+    },
+    {
+      "key": "Bayılmış, kendinden geçmiş",
+      "value": "baygın"
+    },
+    {
+      "key": "Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle özelleştirilmiş, genellikle dikdörtgen biçiminde kumaş; alem",
+      "value": "bayrak"
+    },
+    {
+      "key": "Bilim adamı",
+      "value": "bilgin"
+    },
+    {
+      "key": "Gücü tükenmiş olan, çok yorgun; aygın baygın, bitap",
+      "value": "bitkin"
+    },
+    {
+      "key": "Bir yapının yol düzeyinden aşağıda kalan bölümü",
+      "value": "bodrum"
+    },
+    {
+      "key": "Taşa vurulup kıvılcım çıkarılan çelik parçası",
+      "value": "çakmak"
+    },
+    {
+      "key": "Tarla, bahçe vb. yerlerde ağaç dallarından örülmüş barınak; alaçık",
+      "value": "çardak"
+    },
+    {
+      "key": "Düzgünlüğünü yitirerek eğrilmiş, doğru karşıtı",
+      "value": "çarpık"
+    },
+    {
+      "key": "Kırılmamış ama yarılmış yüzey",
+      "value": "çatlak"
+    },
+    {
+      "key": "Bir dilden başka bir dile aktarma, çevirme; tercüme",
+      "value": "çeviri"
+    },
+    {
+      "key": "Düğümlü, bağlı veya sarılı bir şeyi açmak",
+      "value": "çözmek"
+    },
+    {
+      "key": "Genellikle hafif bir kapak içerisinde, yazı yazmak için bir araya tutturulmuş kâğıt yaprakları",
+      "value": "defter"
+    },
+    {
+      "key": "Delen, delme işini yapan kimse veya nesne",
+      "value": "delici"
+    },
+    {
+      "key": "Tekke",
+      "value": "dergâh"
+    },
+    {
+      "key": "Öge",
+      "value": "eleman"
+    },
+    {
+      "key": "Birine geçici olarak bırakılan ve teslim alınan kişice korunması gereken eşya, kimse vb.; inam, vedia",
+      "value": "emanet"
+    },
+    {
+      "key": "Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek için üzerlerine konulan küçük kâğıt",
+      "value": "etiket"
+    }
+  ],
+  "length7": [
+    {
+      "key": "En küçük topçu birliği",
+      "value": "batarya"
+    },
+    {
+      "key": "Tenor ve bas arasındaki erkek sesi",
+      "value": "bariton"
+    },
+    {
+      "key": "Bir toplulukta kendine özgü nitelikler bakımından ayrı ve ötekilerden sayıca az olanlar; azlık, ekalliyet, çoğunluk karşıtı",
+      "value": "azınlık"
+    },
+    {
+      "key": "Hikâyecik",
+      "value": "anekdot"
+    },
+    {
+      "key": "Bağırmak işi",
+      "value": "bağırış"
+    },
+    {
+      "key": "Baba olma durumu",
+      "value": "babalık"
+    },
+    {
+      "key": "Savaşlarda gücü ve yılmazlığıyla üstünlük kazanan veya yiğitlik gösteren kimse; batur",
+      "value": "bahadır"
+    },
+    {
+      "key": "Yemeğe lezzet katan kokulu toz",
+      "value": "baharat"
+    },
+    {
+      "key": "Yazgısı kötü olan; talihsiz, bedbaht, bibaht",
+      "value": "bahtsız"
+    },
+    {
+      "key": "Büyük eserlerin ayrı ayrı bölümler hâlinde yayımlanan parçalarından her biri; cüz",
+      "value": "fasikül"
+    },
+    {
+      "key": "Büyük zarar, üzüntü ve sıkıntılara yol açan olay veya durum; yıkım, katastrof",
+      "value": "felaket"
+    },
+    {
+      "key": "Varlığın ve bilginin bilimsel olarak araştırılması",
+      "value": "felsefe"
+    },
+    {
+      "key": "Bağnaz",
+      "value": "fanatik"
+    },
+    {
+      "key": "Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese",
+      "value": "fakülte"
+    },
+    {
+      "key": "Erdem",
+      "value": "fazilet"
+    },
+    {
+      "key": "Eğri kunduracı bıçağı",
+      "value": "falçata"
+    },
+    {
+      "key": "Hurda alıp satan kimse",
+      "value": "hurdacı"
+    },
+    {
+      "key": "Hile yapmayan, düzen bilmeyen (kimse)",
+      "value": "hilesiz"
+    },
+    {
+      "key": "Hüneri olan (kimse)",
+      "value": "hünerli"
+    },
+    {
+      "key": "Homurdanma sırasında çıkan sesin adı",
+      "value": "homurtu"
+    },
+    {
+      "key": "Vücudu oynatma, kıpırdatma veya kımıldanma",
+      "value": "hareket"
+    },
+    {
+      "key": "Köpeğin konuşması",
+      "value": "havlama"
+    },
+    {
+      "key": "Zarar görmüş, bozulmuş",
+      "value": "hasarlı"
+    },
+    {
+      "key": "Onur kırma, onura dokunma; tahkir",
+      "value": "hakaret"
+    },
+    {
+      "key": "Yedişer kişilik iki takım arasında yalnızca elle oynanan, topu karşı takımın kalesine atmaya dayanan oyun; el topu",
+      "value": "hentbol"
+    },
+    {
+      "key": "Varsayım",
+      "value": "hipotez"
+    },
+    {
+      "key": "Pişmanlık",
+      "value": "nedamet"
+    },
+    {
+      "key": "Atom çekirdeği ile ilgili; çekirdeksel",
+      "value": "nükleer"
+    },
+    {
+      "key": "Bir şeyin sayılabilen, ölçülebilen veya azalıp çoğalabilen durumu; kemiyet, miktar, kantite",
+      "value": "nicelik"
+    },
+    {
+      "key": "Evlenmek için söz verip yüzük takmış olan kimse; adaklı, yavuklu",
+      "value": "nişanlı"
+    },
+    {
+      "key": "Öğüt",
+      "value": "nasihat"
+    },
+    {
+      "key": "Başkalarına karşı saygılı ve kibar davranma; naziklik",
+      "value": "nezaket"
+    },
+    {
+      "key": "Bakma, gözetme, gözetim",
+      "value": "nezaret"
+    },
+    {
+      "key": "Utandıran, büyük skandal",
+      "value": "rezalet"
+    },
+    {
+      "key": "Görev başında olan kişi",
+      "value": "nöbetçi"
+    },
+    {
+      "key": "Çekinilmesi, dikkatli olunması gereken, sakınmayı gerektiren durum; beis, mahzur",
+      "value": "sakınca"
+    },
+    {
+      "key": "Cephede mücadele eden kişi; cenkçi, muharip",
+      "value": "savaşçı"
+    },
+    {
+      "key": "Sevdaya tutulmuş olan",
+      "value": "sevdalı"
+    },
+    {
+      "key": "Bulaşma",
+      "value": "sıvaşma"
+    },
+    {
+      "key": "Isının dışarı çıkmasını sağlama",
+      "value": "soğutma"
+    },
+    {
+      "key": "Hoşa gitme özelliği olan, hoşa giden; şirin",
+      "value": "sevimli"
+    },
+    {
+      "key": "Bir şeyi dağılacak biçimde dökmek",
+      "value": "serpmek"
+    },
+    {
+      "key": "Yabancıl",
+      "value": "egzotik"
+    },
+    {
+      "key": "Uzay ve zamanın ötesinde, öznenin dışında, kendiliğinden var olan, duyularla değil, yalnızca ruhen algılanabilen asıl gerçeklik; mütalaa, fikir, ide, idea, mülahaza",
+      "value": "düşünce"
+    },
+    {
+      "key": "Eğlenme işi; âlem, cümbüş, sefahat, zevk",
+      "value": "eğlence"
+    },
+    {
+      "key": "Utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz (kimse)",
+      "value": "edepsiz"
+    },
+    {
+      "key": "Deniz kuvvetleri",
+      "value": "donanma"
+    },
+    {
+      "key": "Akıl sağlığının bozulması durumu",
+      "value": "delilik"
+    },
+    {
+      "key": "Değiştirilmiş olan; muaddel",
+      "value": "değişik"
+    },
+    {
+      "key": "Bir şeyin kırılırken çıkardığı ses",
+      "value": "çatırtı"
+    },
+    {
+      "key": "Üfleyerek çalınan, perdesiz çalgı; boru",
+      "value": "borazan"
+    },
+    {
+      "key": "Askerliğini para ödeyerek yapan kişi",
+      "value": "bedelli"
+    },
+    {
+      "key": "Bir yolu veya geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+      "value": "barikat"
+    },
+    {
+      "key": "Toprakta, suda, canlılarda bulunan, çürüme, mayalanma veya hastalıklara yol açan, küresel, silindirimsi, kıvrık biçimli olan, bölünerek çoğalan, klorofilsiz, tek hücreli canlı",
+      "value": "bakteri"
+    },
+    {
+      "key": "Hayvan yakalamak",
+      "value": "avlamak"
+    },
+    {
+      "key": "Doğru olmayan, temelsiz, köksüz, dayanaksız, yalan (haber)",
+      "value": "asılsız"
+    },
+    {
+      "key": "Alkollü içkilere hastalık derecesinde düşkün olan (kimse)",
+      "value": "alkolik"
+    }
+  ],
+  "length8": [
+    {
+      "key": "Malumatsız, cahil, vukufsuz",
+      "value": "bilgisiz"
+    },
+    {
+      "key": "Karışık olan; tertipsiz, aritmik",
+      "value": "düzensiz"
+    },
+    {
+      "key": "Olay, düşünce, duygu ve hayallerin dil aracılığıyla sözlü veya yazılı olarak biçimlendirilmesi sanatı; yazın, gökçe yazın",
+      "value": "edebiyat"
+    },
+    {
+      "key": "Eril olma durumu",
+      "value": "erkeklik"
+    },
+    {
+      "key": "Natüralizme tepki olarak ortaya çıkmış bir edebiyat ve sanat akımı",
+      "value": "estetizm"
+    },
+    {
+      "key": "Etkin olma durumu; aktiflik, faallik",
+      "value": "etkinlik"
+    },
+    {
+      "key": "Eğitim işiyle uğraşan kimse; terbiyeci",
+      "value": "eğitimci"
+    },
+    {
+      "key": "Kaygılı",
+      "value": "endişeli"
+    },
+    {
+      "key": "İç deri",
+      "value": "endoderm"
+    },
+    {
+      "key": "İç evlilik",
+      "value": "endogami"
+    },
+    {
+      "key": "Doğayla ve çevreyle ilgili",
+      "value": "ekolojik"
+    },
+    {
+      "key": "Yetkisi önemsenmeyen, gücünü gerektiği gibi göstermeyen kimse",
+      "value": "eşekbaşı"
+    },
+    {
+      "key": "Irk bilimi",
+      "value": "etnoloji"
+    },
+    {
+      "key": "Ders alınacak nitelikte olan",
+      "value": "ibretlik"
+    },
+    {
+      "key": "Oksit durumundaki cisimlerin oksijenini alma veya daha düşük bir oksitleme derecesine indirme özelliği olan (madde)",
+      "value": "indirgen"
+    },
+    {
+      "key": "İnsafı olmayan",
+      "value": "insafsız"
+    },
+    {
+      "key": "Genel ağ",
+      "value": "internet"
+    },
+    {
+      "key": "İnsan seven; insancı",
+      "value": "insancıl"
+    },
+    {
+      "key": "İki teli olan saz",
+      "value": "ikitelli"
+    },
+    {
+      "key": "Özü sözü bir olmayan; yüze gülücü, yalabık, riyakâr, mürai",
+      "value": "ikiyüzlü"
+    },
+    {
+      "key": "İşlerine önem vermeyip onları gelişigüzel yapıveren veya daha sonraya bırakan; savsak, ihmalci",
+      "value": "ihmalkâr"
+    },
+    {
+      "key": "Yol alma",
+      "value": "ilerleme"
+    },
+    {
+      "key": "Bir yerde çalışan kimselere genellikle kazançtan dağıtılan veya iyi çalıştıkları için aylık dışında verilen para",
+      "value": "ikramiye"
+    },
+    {
+      "key": "İçinde kırçıl renk bulunan",
+      "value": "kırçıllı"
+    },
+    {
+      "key": "Manevi değer yüklemek",
+      "value": "kutsamak"
+    },
+    {
+      "key": "Hatasız, eksiksiz olan",
+      "value": "kusursuz"
+    },
+    {
+      "key": "Kullanma, yararlanma",
+      "value": "kullanım"
+    },
+    {
+      "key": "Yangın çıkarmak için kundak koyan kimse",
+      "value": "kundakçı"
+    },
+    {
+      "key": "Düşme tehlikesi olan yerlere çekilen duvar veya parmaklık",
+      "value": "korkuluk"
+    },
+    {
+      "key": "Bir dilin kelimeleriyle düşüncesini sözlü olarak anlatmak",
+      "value": "konuşmak"
+    },
+    {
+      "key": "Bir ilçede devleti temsil eden en yetkili yönetim görevlisi; ilçebay, yarbay",
+      "value": "kaymakam"
+    },
+    {
+      "key": "Bir birlik veya kurumun, kumandan ile yardımcı şube ve bölümlerinden oluşan kuruluş",
+      "value": "karargâh"
+    },
+    {
+      "key": "Bir süslemenin ya da biçimin düz yüzey üzerindeki çıkıntısı",
+      "value": "kabartma"
+    },
+    {
+      "key": "Yayan",
+      "value": "tabanvay"
+    },
+    {
+      "key": "Öğleden akşama kadar geçen süre içinde karşılaşıldığında kullanılan bir selamlama sözü",
+      "value": "tünaydın"
+    },
+    {
+      "key": "Elinde kalmamak; bitmek",
+      "value": "tükenmek"
+    },
+    {
+      "key": "Eline geçen yiyeceği oburca yemek",
+      "value": "tıkınmak"
+    },
+    {
+      "key": "Göz önüne getirme, hayal etme, zihinde canlandırma",
+      "value": "tasavvur"
+    },
+    {
+      "key": "Gülümseme",
+      "value": "tebessüm"
+    },
+    {
+      "key": "Gerçekleşme, yerine gelme",
+      "value": "tahakkuk"
+    },
+    {
+      "key": "Baskı yaparak hükmetme, zorbalıkla hüküm sürme",
+      "value": "tahakküm"
+    },
+    {
+      "key": "Yıkıp bozma, harap etme",
+      "value": "tahribat"
+    },
+    {
+      "key": "El ve kol vuruşlarından çok, ayak ve tekme tekniklerine önem veren, Uzak Doğu'ya özgü dövüş sanatı",
+      "value": "tekvando"
+    },
+    {
+      "key": "Akademi ile ilgili olan",
+      "value": "akademik"
+    },
+    {
+      "key": "Merhamet duygusu olmayan; zalim",
+      "value": "acımasız"
+    },
+    {
+      "key": "Viskozitenin düşük olma durumu",
+      "value": "akıcılık"
+    },
+    {
+      "key": "Güzel sanatların gerektirdiği niteliğe uygun",
+      "value": "artistik"
+    },
+    {
+      "key": "Özen gösterilmemiş, bakılmamış",
+      "value": "bakımsız"
+    },
+    {
+      "key": "Net olmayan, kararsız durumda olan",
+      "value": "belirsiz"
+    },
+    {
+      "key": "İstanbul iline bağlı ilçelerden biri",
+      "value": "beşiktaş"
+    },
+    {
+      "key": "Bir şeyin dip tarafının yüzeye, ağza olan uzaklığı",
+      "value": "derinlik"
+    },
+    {
+      "key": "Tabii olma durumu",
+      "value": "doğallık"
+    },
+    {
+      "key": "Tarafsız haber yapan ve halkı bilgilendirme amacı taşıyarak bilgilerini aktaran uzman",
+      "value": "gazeteci"
+    },
+    {
+      "key": "Toplum yaşamında yasal düzenin aksamadan yürütülmesi, kişilerin korkusuzca yaşayabilmesi durumu; emniyet",
+      "value": "güvenlik"
+    }
+  ],
+  "length9": [
+    {
+      "key": "Uygun olan",
+      "value": "elverişli"
+    },
+    {
+      "key": "Bir kimsenin resmî bir kuruluşa herhangi bir durumu bildirmek için verdiği çizelge; bildirge",
+      "value": "beyanname"
+    },
+    {
+      "key": "Ağlar gibi olan, neredeyse ağlayacak durumda olan; ağlamalı, ağlamsı",
+      "value": "ağlamaklı"
+    },
+    {
+      "key": "Genellikle kapıdan duymaya alışık olduğumuz kulak tırmalayıcı ses",
+      "value": "gacırdama"
+    },
+    {
+      "key": "Kuşların ağzıyla dürtmesi",
+      "value": "gagalamak"
+    },
+    {
+      "key": "Nakkaş olma durumu",
+      "value": "nakkaşlık"
+    },
+    {
+      "key": "Malları son kullanım için depolama",
+      "value": "paketleme"
+    },
+    {
+      "key": "Işın bilimi",
+      "value": "radyoloji"
+    },
+    {
+      "key": "Zor koşullar altında cesaret ve metanetini yitirmeme duygusu",
+      "value": "sabretmek"
+    },
+    {
+      "key": "Cam kaya",
+      "value": "obsidiyen"
+    },
+    {
+      "key": "Üçkâğıt oyunu oynatan kimse",
+      "value": "üçkâğıtçı"
+    },
+    {
+      "key": "Yürekli kimse",
+      "value": "babayiğit"
+    },
+    {
+      "key": "Tiyatro, opera vb. dekorlarını tasarlayan sanatçı",
+      "value": "dekoratör"
+    },
+    {
+      "key": "Bölüm",
+      "value": "departman"
+    },
+    {
+      "key": "Bir ilin para işlerini yöneten en üst düzeydeki görevli",
+      "value": "defterdar"
+    },
+    {
+      "key": "Renk körlüğü",
+      "value": "daltonizm"
+    },
+    {
+      "key": "Tasavvufi bir yaşam biçimi",
+      "value": "dervişlik"
+    },
+    {
+      "key": "Birinin söylediklerine veya yaptıklarına karşı gelmek; dikelmek, dinelmek",
+      "value": "diklenmek"
+    },
+    {
+      "key": "Tadı güzel olmayan",
+      "value": "lezzetsiz"
+    },
+    {
+      "key": "Lokanta işleten kimse",
+      "value": "lokantacı"
+    },
+    {
+      "key": "Lohusa olma durumu",
+      "value": "lohusalık"
+    },
+    {
+      "key": "Tren vagonlarını çeken, tekerlekli, buharlı, elektrikli, termik motorlu veya sıkıştırılmış havalı makine",
+      "value": "lokomotif"
+    },
+    {
+      "key": "Edebiyat",
+      "value": "literatür"
+    },
+    {
+      "key": "İyi görüntü elde etmek, görüntüyü tam odak noktasına düşürmek için alıcı merceğini ayarlamak; fokuslamak",
+      "value": "odaklamak"
+    },
+    {
+      "key": "Az kalsın olmak",
+      "value": "olayazmak"
+    },
+    {
+      "key": "Görüngücülük",
+      "value": "olaycılık"
+    },
+    {
+      "key": "Sıradanlık, alışılmış olma durumu",
+      "value": "olağanlık"
+    },
+    {
+      "key": "Eski kumaş veya bez toplayan kişi",
+      "value": "paçavracı"
+    },
+    {
+      "key": "Hayvan postunu kullanılacak duruma getirme işleminin yapıldığı yer, sepi yeri",
+      "value": "tabakhane"
+    },
+    {
+      "key": "Olduğu gibi gösterilen; abartmasız, mübalağasız",
+      "value": "abartısız"
+    },
+    {
+      "key": "Aldatmaya dayanan davranış, aldatıcı oyun; dubara",
+      "value": "aldatmaca"
+    },
+    {
+      "key": "Bayramlarda verilen armağan",
+      "value": "bayramlık"
+    },
+    {
+      "key": "Düşkün olma durumu; iptila, nikbet, tiryakilik, zaaf",
+      "value": "düşkünlük"
+    },
+    {
+      "key": "Alçak gönüllülük göstermek için kendi evinden bahsederken kullanılan bir söz",
+      "value": "fakirhane"
+    }
+  ],
+  "length10": [
+    {
+      "key": "Fotoğraf çeken veya basan kimse",
+      "value": "fotoğrafçı"
+    },
+    {
+      "key": "Fizyoloji ile ilgili, vücutla ilgili",
+      "value": "fizyolojik"
+    },
+    {
+      "key": "Belleğine yüklenmiş program uyarınca aritmetik ve mantık işlemleri yapabilen, sonuca göre karar verip programdaki akışı değiştirebilen, çevresiyle etkileşimde bulunabilen, girdi ve sonuç verilerini belleğinde tutabilen aygıt; elektronik beyin",
+      "value": "bilgisayar"
+    },
+    {
+      "key": "Balıkçının yaptığı iş",
+      "value": "balıkçılık"
+    },
+    {
+      "key": "Rahmet göstermeden anlamında bir zarf",
+      "value": "acımasızca"
+    },
+    {
+      "key": "Ahlakı bir araç değil, bir amaç sayan öğreti; törelcilik, aktörecilik, moralizm",
+      "value": "ahlakçılık"
+    },
+    {
+      "key": "Etkinleştirme",
+      "value": "aktivasyon"
+    },
+    {
+      "key": "Vücudun belirli noktalarına genellikle altın iğne batırılarak yapılan tedavi",
+      "value": "akupunktur"
+    },
+    {
+      "key": "Akımölçer",
+      "value": "amperölçer"
+    },
+    {
+      "key": "El, yüz veya vücuttaki hastalık yapan mikroorganizmaları kimyasal maddelerle etkisiz hâle getirme veya yok etme işlemi için kullanılan (madde)",
+      "value": "antiseptik"
+    },
+    {
+      "key": "Anlaşılması güç olan, bir anlam verilemeyen; muğlak",
+      "value": "anlaşılmaz"
+    },
+    {
+      "key": "Soylu erki yanlısı",
+      "value": "aristokrat"
+    },
+    {
+      "key": "Dağıtım işiyle uğraşan kuruluş merkezi",
+      "value": "dağıtımevi"
+    },
+    {
+      "key": "Kıyıdaki yapıları, tekneleri, dalgaların yıpratıcı etkisinden korumak veya gemilerin yük alıp boşaltmasını sağlamak amacıyla liman ve iskele önlerine yapılan uzun set",
+      "value": "dalgakıran"
+    },
+    {
+      "key": "Çok dağınık ve karışık; darmadağınık, tarumar",
+      "value": "darmadağın"
+    },
+    {
+      "key": "Kuşak",
+      "value": "jenerasyon"
+    },
+    {
+      "key": "Kabarık olma durumu; şişkinlik",
+      "value": "kabarıklık"
+    },
+    {
+      "key": "Yemeği servis etmek üzere göze hoş gelecek düzende tabağa yerleştirmek",
+      "value": "tabaklamak"
+    },
+    {
+      "key": "Bir şeye alışmış olma durumu; alışkı, alışkınlık, alışmışlık, yordam, itiyat, huy",
+      "value": "alışkanlık"
+    },
+    {
+      "key": "Atmosferle ilgili; cevvi",
+      "value": "atmosferik"
+    },
+    {
+      "key": "Parayla ilgili mesleki alan",
+      "value": "bankacılık"
+    },
+    {
+      "key": "İyi ve güzel bulunmak",
+      "value": "beğenilmek"
+    },
+    {
+      "key": "Bir nesnenin, kendine özgü niteliklerini tam ve açık bir biçimde söz veya yazı ile anlatmak; tasvir etmek",
+      "value": "betimlemek"
+    },
+    {
+      "key": "Denizcinin yaptığı iş",
+      "value": "denizcilik"
+    },
+    {
+      "key": "Kablolarla uğraşan teknik uzman",
+      "value": "elektrikçi"
+    }
+  ]
+}
